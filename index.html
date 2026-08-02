@@ -154,7 +154,9 @@ let mdp=document.getElementById("password").value;
 
 if(mdp=="Iele5920@@"){
 
-location.href="accueil.html";
+    sessionStorage.setItem("acces","ok");
+
+    location.href="accueil.html";
 
 }
 
