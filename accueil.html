@@ -2,166 +2,168 @@
 <html lang="fr">
 
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Eddy Lemahieu | Gestionnaire administratif</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Eddy Lemahieu | Portfolio</title>
 
 <style>
 
 *{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+margin:0;
+padding:0;
+box-sizing:border-box;
 }
 
 body{
 
-    font-family:Calibri,Arial,sans-serif;
-    background:#f5f7fb;
-    color:#333;
+font-family:Calibri,Arial,sans-serif;
+background:#f5f7fb;
+color:#333;
 
 }
 
-header{
+nav{
 
-    background:linear-gradient(135deg,#003b73,#005fa3);
-    color:white;
-    padding:90px 20px;
+position:fixed;
+top:0;
+left:0;
+width:100%;
+
+background:white;
+
+box-shadow:0 2px 15px rgba(0,0,0,.08);
+
+padding:20px 60px;
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+z-index:999;
 
 }
 
-.container{
+.logo{
 
-    max-width:1200px;
-    margin:auto;
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    gap:60px;
-    flex-wrap:wrap;
+font-size:24px;
+font-weight:bold;
+color:#004b87;
 
 }
 
-.photo{
+.menu a{
 
-    width:260px;
-    border-radius:50%;
-    border:8px solid white;
-    box-shadow:0 15px 35px rgba(0,0,0,.25);
+margin-left:30px;
+
+text-decoration:none;
+
+color:#444;
+
+font-weight:bold;
 
 }
 
 .hero{
 
-    flex:1;
-}
+margin-top:90px;
 
-.hero h1{
+min-height:100vh;
 
-    font-size:56px;
-    margin-bottom:10px;
+display:flex;
 
-}
+align-items:center;
 
-.hero h2{
+justify-content:center;
 
-    font-size:28px;
-    color:#9fd4ff;
-    margin-bottom:30px;
+padding:60px;
 
 }
 
-.hero p{
+.contenu{
 
-    font-size:22px;
-    line-height:1.7;
+max-width:1200px;
 
-}
+display:flex;
 
-.boutons{
+align-items:center;
 
-    margin-top:40px;
+justify-content:space-between;
 
-}
-
-.btn{
-
-    display:inline-block;
-    padding:15px 35px;
-    margin-right:15px;
-    border-radius:8px;
-    text-decoration:none;
-    font-size:18px;
-    font-weight:bold;
+gap:80px;
 
 }
 
-.cv{
+.photo{
 
-    background:white;
-    color:#004b87;
+width:320px;
 
-}
+border-radius:50%;
 
-.contact{
-
-    background:#00a0ff;
-    color:white;
+box-shadow:0 20px 40px rgba(0,0,0,.25);
 
 }
 
-.valeurs{
+.presentation{
 
-    background:white;
-    padding:70px 20px;
-
-}
-
-.valeurs h2{
-
-    text-align:center;
-    margin-bottom:60px;
-    font-size:40px;
+flex:1;
 
 }
 
-.grille{
+.presentation h1{
 
-    max-width:1200px;
-    margin:auto;
+font-size:62px;
 
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-    gap:30px;
+margin-bottom:20px;
 
-}
-
-.carte{
-
-    background:#f5f7fb;
-    border-radius:15px;
-    padding:35px;
-    transition:.3s;
+color:#003b73;
 
 }
 
-.carte:hover{
+.presentation h2{
 
-    transform:translateY(-8px);
+font-size:30px;
 
-}
+color:#0074c7;
 
-.carte h3{
-
-    color:#004b87;
-    margin-bottom:20px;
+margin-bottom:30px;
 
 }
 
-.carte p{
+.presentation p{
 
-    line-height:1.7;
+font-size:22px;
+
+line-height:1.8;
+
+margin-bottom:40px;
+
+}
+
+.bouton{
+
+display:inline-block;
+
+background:#005fa3;
+
+color:white;
+
+padding:18px 35px;
+
+border-radius:8px;
+
+text-decoration:none;
+
+font-weight:bold;
+
+margin-right:20px;
+
+}
+
+.bouton:hover{
+
+background:#003b73;
 
 }
 
@@ -171,91 +173,61 @@ header{
 
 <body>
 
-<header>
+<nav>
 
-<div class="container">
+<div class="logo">
 
-<div class="hero">
+EL
+
+</div>
+
+<div class="menu">
+
+<a href="#">Accueil</a>
+
+<a href="#">Réalisations</a>
+
+<a href="#">Parcours</a>
+
+<a href="#">CV</a>
+
+<a href="#">Contact</a>
+
+</div>
+
+</nav>
+
+<section class="hero">
+
+<div class="contenu">
+
+<div class="presentation">
 
 <h1>Eddy Lemahieu</h1>
 
-<h2>Gestionnaire administratif • Coordinateur • Microsoft 365</h2>
+<h2>Gestionnaire administratif • Microsoft 365 • Relation client</h2>
 
 <p>
 
-J'aide les organisations à gagner en efficacité grâce à une gestion administrative rigoureuse, une collaboration efficace et des solutions Microsoft 365 adaptées aux besoins du terrain.
+J'aide les organisations à gagner en efficacité grâce à une gestion administrative rigoureuse, un travail collaboratif et des solutions Microsoft 365 adaptées aux besoins du terrain.
 
 </p>
 
-<div class="boutons">
+<a href="#" class="bouton">
 
-<a href="CV.pdf" target="_blank" class="btn cv">📄 Télécharger mon CV</a>
+📄 Consulter mon CV
 
-<a href="#contact" class="btn contact">Me contacter</a>
+</a>
 
-</div>
+<a href="#" class="bouton">
+
+🚀 Découvrir mes réalisations
+
+</a>
 
 </div>
 
 <img src="photo.png" class="photo">
-
-</div>
-
-</header>
-
-<section class="valeurs">
-
-<h2>Pourquoi travailler avec moi ?</h2>
-
-<div class="grille">
-
-<div class="carte">
-
-<h3>🤝 Travail collaboratif</h3>
-
-<p>
-
-Je construis les solutions avec les équipes afin qu'elles répondent réellement aux besoins du terrain.
-
-</p>
-
-</div>
-
-<div class="carte">
-
-<h3>📋 Organisation</h3>
-
-<p>
-
-Coordination des activités, gestion documentaire et amélioration continue des processus administratifs.
-
-</p>
-
-</div>
-
-<div class="carte">
-
-<h3>💡 Innovation utile</h3>
-
-<p>
-
-Microsoft 365, SharePoint, Excel, Lists, Forms et Power Automate au service de l'efficacité opérationnelle.
-
-</p>
-
-</div>
-
-<div class="carte">
-
-<h3>🎓 Accompagnement</h3>
-
-<p>
-
-Je documente, forme les utilisateurs et facilite l'adoption des nouveaux outils.
-
-</p>
-
-</div>
 
 </div>
 
