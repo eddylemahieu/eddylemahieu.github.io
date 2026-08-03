@@ -1639,3 +1639,832 @@ justify-content:center;
 }
 
 }
+/* =====================================================
+   HERO E-CV
+===================================================== */
+
+.cv-hero{
+    padding:120px 0 80px;
+    background:#fff;
+    overflow:hidden;
+    position:relative;
+}
+
+.cv-hero-grid{
+    display:grid;
+    grid-template-columns:1.2fr 0.8fr;
+    gap:70px;
+    align-items:center;
+}
+
+.cv-title{
+    font-size:3.3rem;
+    font-weight:800;
+    color:#1E293B;
+    margin:20px 0 10px;
+    line-height:1.1;
+}
+
+.cv-job{
+    font-size:1.45rem;
+    font-weight:600;
+    color:#0A66FF;
+    margin-bottom:25px;
+    line-height:1.4;
+}
+
+.cv-description{
+    font-size:1.08rem;
+    line-height:1.9;
+    color:#475569;
+    max-width:650px;
+    margin-bottom:35px;
+}
+
+.cv-infos{
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+    margin-bottom:40px;
+}
+
+.cv-info{
+    display:flex;
+    align-items:center;
+    gap:15px;
+    font-size:1rem;
+    color:#475569;
+}
+
+.cv-info i{
+    width:42px;
+    height:42px;
+    border-radius:50%;
+    background:#EDF4FF;
+    color:#0A66FF;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:1rem;
+}
+
+/* ===========================
+Photo
+=========================== */
+
+.cv-hero-right{
+    position:relative;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:520px;
+}
+
+.cv-photo{
+    position:relative;
+    width:390px;
+    z-index:10;
+}
+
+/* ===========================
+Décors
+=========================== */
+
+.cv-circle{
+    position:absolute;
+    border-radius:50%;
+}
+
+.cv-circle-1{
+    width:330px;
+    height:330px;
+    background:#EDF4FF;
+    z-index:1;
+}
+
+.cv-circle-2{
+    width:420px;
+    height:420px;
+    border:2px dashed #D8E8FF;
+    z-index:0;
+}
+
+.cv-square{
+    position:absolute;
+    border-radius:18px;
+    background:#EDF4FF;
+}
+
+.cv-square-1{
+    width:70px;
+    height:70px;
+    top:60px;
+    left:30px;
+    transform:rotate(18deg);
+}
+
+.cv-square-2{
+    width:45px;
+    height:45px;
+    right:20px;
+    bottom:60px;
+    transform:rotate(-15deg);
+}
+
+.cv-dots{
+    position:absolute;
+    right:10px;
+    top:90px;
+    width:90px;
+    height:90px;
+    background-image:radial-gradient(#0A66FF 1.6px, transparent 1.6px);
+    background-size:14px 14px;
+    opacity:.20;
+}
+
+/* ===========================
+Responsive
+=========================== */
+
+@media(max-width:992px){
+
+    .cv-hero-grid{
+        grid-template-columns:1fr;
+        text-align:center;
+    }
+
+    .cv-description{
+        margin:auto auto 35px;
+    }
+
+    .cv-infos{
+        align-items:center;
+    }
+
+    .cv-hero-right{
+        order:-1;
+        min-height:auto;
+        margin-bottom:40px;
+    }
+
+    .cv-photo{
+        width:300px;
+    }
+
+}
+
+@media(max-width:768px){
+
+    .cv-title{
+        font-size:2.4rem;
+    }
+
+    .cv-job{
+        font-size:1.2rem;
+    }
+
+    .cv-photo{
+        width:250px;
+    }
+
+}
+/* =====================================================
+STATISTIQUES E-CV
+===================================================== */
+
+.cv-stats{
+
+    padding:30px 0 100px;
+
+}
+
+.cv-stats-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:30px;
+
+}
+
+.cv-stat-card{
+
+    background:#fff;
+
+    border-radius:18px;
+
+    padding:35px;
+
+    border:1px solid #E2E8F0;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.05);
+
+    transition:.3s;
+
+}
+
+.cv-stat-card:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 18px 40px rgba(0,0,0,.08);
+
+}
+
+.cv-stat-number{
+
+    display:block;
+
+    font-size:2.8rem;
+
+    font-weight:800;
+
+    color:#0A66FF;
+
+    margin-bottom:15px;
+
+}
+
+.cv-stat-card h3{
+
+    font-size:1.2rem;
+
+    margin-bottom:15px;
+
+    color:#1E293B;
+
+}
+
+.cv-stat-card p{
+
+    color:#64748B;
+
+    line-height:1.7;
+
+}
+
+@media(max-width:992px){
+
+    .cv-stats-grid{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+}
+
+@media(max-width:768px){
+
+    .cv-stats-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+}
+/* =====================================================
+   CAREER TIMELINE
+===================================================== */
+
+.career{
+
+    padding:120px 0;
+
+    background:#F8FAFC;
+
+}
+
+.career-timeline{
+
+    position:relative;
+
+    max-width:1000px;
+
+    margin:70px auto 0;
+
+    padding-left:140px;
+
+}
+
+/* Ligne verticale */
+
+.career-timeline::before{
+
+    content:"";
+
+    position:absolute;
+
+    left:95px;
+
+    top:0;
+
+    bottom:0;
+
+    width:2px;
+
+    background:#D9E4F3;
+
+}
+
+/* =====================================================
+ITEM
+===================================================== */
+
+.career-item{
+
+    position:relative;
+
+    margin-bottom:25px;
+
+}
+
+/* =====================================================
+HEADER
+===================================================== */
+
+.career-header{
+
+    width:100%;
+
+    background:#fff;
+
+    border:none;
+
+    border-radius:18px;
+
+    padding:22px 30px;
+
+    display:flex;
+
+    align-items:center;
+
+    cursor:pointer;
+
+    transition:.30s;
+
+    box-shadow:0 8px 25px rgba(15,23,42,.05);
+
+    position:relative;
+
+}
+
+.career-header:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 15px 40px rgba(15,23,42,.08);
+
+}
+
+/* =====================================================
+ANNEE
+===================================================== */
+
+.career-year{
+
+    position:absolute;
+
+    left:-125px;
+
+    width:70px;
+
+    text-align:right;
+
+    font-size:1rem;
+
+    font-weight:700;
+
+    color:#64748B;
+
+}
+
+/* =====================================================
+POINT
+===================================================== */
+
+.career-dot{
+
+    position:absolute;
+
+    left:-57px;
+
+    width:16px;
+
+    height:16px;
+
+    background:#fff;
+
+    border:4px solid #0A66FF;
+
+    border-radius:50%;
+
+    z-index:2;
+
+}
+
+/* =====================================================
+TITRE
+===================================================== */
+
+.career-summary{
+
+    flex:1;
+
+    text-align:left;
+
+}
+
+.career-summary h3{
+
+    margin:0;
+
+    font-size:1.25rem;
+
+    font-weight:700;
+
+    color:#1E293B;
+
+}
+
+.career-summary p{
+
+    margin-top:6px;
+
+    color:#64748B;
+
+    font-size:1rem;
+
+}
+
+/* =====================================================
+CHEVRON
+===================================================== */
+
+.career-header i{
+
+    font-size:1.1rem;
+
+    color:#94A3B8;
+
+    transition:.35s;
+
+}
+
+.career-item.active .career-header i{
+
+    transform:rotate(180deg);
+
+    color:#0A66FF;
+
+}
+
+/* =====================================================
+EFFET EXPERIENCE ACTIVE
+===================================================== */
+
+.career-item.active .career-header{
+
+    border-left:5px solid #0A66FF;
+
+}
+
+.career-item.active .career-dot{
+
+    background:#0A66FF;
+
+}
+
+/* =====================================================
+CONTENU
+===================================================== */
+
+.career-content{
+
+    display:none;
+
+    margin-left:20px;
+
+    padding:35px;
+
+    background:#fff;
+
+    border-radius:0 0 18px 18px;
+
+    border-left:5px solid #0A66FF;
+
+    box-shadow:0 15px 35px rgba(15,23,42,.05);
+
+}
+
+.career-item.active .career-content{
+
+    display:block;
+
+}
+/* =====================================================
+ONGLETS
+===================================================== */
+
+.career-tabs{
+
+    display:flex;
+
+    gap:12px;
+
+    flex-wrap:wrap;
+
+    margin-bottom:30px;
+
+    border-bottom:1px solid #E2E8F0;
+
+    padding-bottom:20px;
+
+}
+
+.career-tabs .tab{
+
+    border:none;
+
+    background:#EDF4FF;
+
+    color:#0A66FF;
+
+    padding:10px 18px;
+
+    border-radius:999px;
+
+    font-size:.95rem;
+
+    font-weight:600;
+
+    cursor:pointer;
+
+    transition:.30s;
+
+}
+
+.career-tabs .tab:hover{
+
+    background:#0A66FF;
+
+    color:#fff;
+
+}
+
+.career-tabs .tab.active{
+
+    background:#0A66FF;
+
+    color:#fff;
+
+}
+
+/* =====================================================
+PANELS
+===================================================== */
+
+.career-panel{
+
+    color:#475569;
+
+    line-height:1.9;
+
+    font-size:1rem;
+
+}
+
+.career-panel h4{
+
+    margin-bottom:18px;
+
+    color:#1E293B;
+
+    font-size:1.1rem;
+
+}
+
+.career-panel ul{
+
+    margin:20px 0;
+
+    padding-left:20px;
+
+}
+
+.career-panel li{
+
+    margin-bottom:12px;
+
+}
+
+/* =====================================================
+COMPETENCES
+===================================================== */
+
+.timeline-tags{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:12px;
+
+    margin-top:25px;
+
+}
+
+.timeline-tags span{
+
+    background:#EDF4FF;
+
+    color:#0A66FF;
+
+    padding:10px 16px;
+
+    border-radius:999px;
+
+    font-size:.90rem;
+
+    font-weight:600;
+
+    transition:.30s;
+
+}
+
+.timeline-tags span:hover{
+
+    background:#0A66FF;
+
+    color:#fff;
+
+}
+
+/* =====================================================
+BOUTON
+===================================================== */
+
+.career-content .btn{
+
+    margin-top:35px;
+
+}
+
+/* =====================================================
+ANIMATION
+===================================================== */
+
+.career-content{
+
+    animation:fadeCareer .35s ease;
+
+}
+
+@keyframes fadeCareer{
+
+    from{
+
+        opacity:0;
+
+        transform:translateY(-12px);
+
+    }
+
+    to{
+
+        opacity:1;
+
+        transform:translateY(0);
+
+    }
+
+}
+
+/* =====================================================
+RESPONSIVE
+===================================================== */
+
+@media(max-width:992px){
+
+    .career-timeline{
+
+        padding-left:90px;
+
+    }
+
+    .career-year{
+
+        left:-80px;
+
+        width:55px;
+
+        font-size:.90rem;
+
+    }
+
+    .career-timeline::before{
+
+        left:55px;
+
+    }
+
+    .career-dot{
+
+        left:-36px;
+
+    }
+
+}
+
+@media(max-width:768px){
+
+    .career{
+
+        padding:80px 0;
+
+    }
+
+    .career-timeline{
+
+        padding-left:0;
+
+    }
+
+    .career-timeline::before{
+
+        display:none;
+
+    }
+
+    .career-year{
+
+        position:relative;
+
+        left:0;
+
+        width:auto;
+
+        text-align:left;
+
+        margin-bottom:10px;
+
+        color:#0A66FF;
+
+    }
+
+    .career-dot{
+
+        display:none;
+
+    }
+
+    .career-header{
+
+        flex-direction:column;
+
+        align-items:flex-start;
+
+        gap:10px;
+
+    }
+
+    .career-header i{
+
+        position:absolute;
+
+        right:25px;
+
+        top:28px;
+
+    }
+
+    .career-content{
+
+        margin-left:0;
+
+        padding:25px;
+
+    }
+
+    .career-tabs{
+
+        gap:8px;
+
+    }
+
+}
+/* ==========================================
+TABS
+========================================== */
+
+.tab-content{
+
+    display:none;
+
+}
+
+.tab-content.active{
+
+    display:block;
+
+}
