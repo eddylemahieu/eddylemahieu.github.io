@@ -1,0 +1,3016 @@
+======================================================================
+04 - DÉCISIONS VALIDÉES
+======================================================================
+
+Le présent document constitue le registre officiel des décisions
+validées du projet E-CV Eddy Lemahieu.
+
+Il assure la traçabilité, la cohérence et la pérennité de toutes les
+orientations retenues par le chef de projet.
+
+Chaque décision validée devient une référence officielle du projet et
+fait partie intégrante de sa gouvernance.
+
+Aucune décision validée ne peut être ignorée, interprétée ou remise en
+cause sans qu'une nouvelle décision officielle ne vienne la remplacer.
+
+
+======================================================================
+
+TABLE DES MATIÈRES
+======================================================================
+
+======================================================================
+1. PRÉSENTATION
+======================================================================
+
+Le document « Décisions validées » constitue la mémoire officielle du
+projet E-CV Eddy Lemahieu.
+
+Il recense l'ensemble des décisions approuvées par le chef de projet
+tout au long de la conception, du développement et de l'évolution du
+portfolio.
+
+Son objectif est de garantir la traçabilité des choix effectués,
+d'assurer la cohérence entre les différents documents du projet et
+d'éviter toute remise en question d'une décision déjà validée.
+
+Chaque décision est documentée, identifiée de manière unique, justifiée
+et conservée afin de constituer une référence durable pour l'ensemble
+des intervenants.
+
+Le présent document complète le Document maître, le Cahier des charges,
+l'Architecture technique et la Charte graphique.
+
+Il constitue la référence officielle pour toutes les décisions
+structurantes du projet.
+
+Toute évolution importante du projet doit faire l'objet d'une nouvelle
+Décision validée avant sa mise en œuvre.
+
+Le registre des Décisions validées participe directement à la
+gouvernance, à la qualité, à la stabilité et à la pérennité du projet.
+
+======================================================================
+2. OBJECTIFS DU DOCUMENT
+======================================================================
+
+Le document « Décisions validées » a pour objectif de centraliser,
+formaliser et conserver l'ensemble des décisions structurantes du
+projet E-CV Eddy Lemahieu.
+
+Il constitue la mémoire officielle du projet et garantit la
+traçabilité des choix réalisés tout au long de sa conception, de son
+développement et de son évolution.
+
+Les objectifs du document sont les suivants :
+
+• conserver une trace officielle de chaque décision validée ;
+
+• documenter le contexte et les motivations ayant conduit à chaque
+  décision ;
+
+• éviter la remise en question de décisions déjà validées ;
+
+• garantir la cohérence entre l'ensemble des documents du projet ;
+
+• assurer une gouvernance claire et transparente ;
+
+• faciliter la compréhension des choix réalisés par les différents
+  intervenants ;
+
+• permettre au GPT Chef de projet et au GPT Développeur de disposer
+  d'une référence unique concernant les décisions officielles ;
+
+• assurer la traçabilité des évolutions du projet dans le temps ;
+
+• préserver la stabilité du projet malgré les évolutions futures ;
+
+• faciliter les analyses d'impact avant toute nouvelle décision ;
+
+• garantir qu'aucune décision importante ne soit appliquée sans avoir
+  été validée et documentée.
+
+Le registre des Décisions validées constitue également un outil
+d'aide à la décision.
+
+Avant toute évolution du projet, il permet de vérifier si une décision
+équivalente existe déjà ou si une nouvelle décision doit être créée.
+
+Il participe ainsi directement à la qualité, à la cohérence, à la
+maintenabilité et à la pérennité du projet.
+
+
+======================================================================
+
+2.1 Principe de capitalisation
+
+Chaque décision validée enrichit le patrimoine documentaire du projet.
+
+Les connaissances acquises, les analyses réalisées et les choix
+effectués sont conservés afin d'éviter de reproduire les mêmes études
+ou les mêmes discussions lors des évolutions futures.
+
+Le projet progresse en s'appuyant sur les décisions déjà prises plutôt
+qu'en recommençant les réflexions à chaque nouvelle évolution.
+
+La capitalisation des décisions contribue directement à
+l'amélioration continue, à la qualité et à la maturité du projet.
+
+======================================================================
+3. CHAMP D'APPLICATION
+======================================================================
+
+Le document « Décisions validées » s'applique à l'ensemble du projet
+E-CV Eddy Lemahieu.
+
+Il recense exclusivement les décisions ayant un impact significatif sur
+la conception, le développement, l'organisation, l'évolution ou la
+gouvernance du projet.
+
+Les décisions enregistrées dans ce document deviennent des références
+officielles et s'imposent à l'ensemble des intervenants.
+
+
+======================================================================
+
+3.1 Décisions concernées
+
+Le présent document couvre notamment les décisions relatives :
+
+• aux objectifs du projet ;
+
+• à l'architecture technique ;
+
+• à l'organisation documentaire ;
+
+• aux règles de développement ;
+
+• à la charte graphique ;
+
+• au catalogue des composants ;
+
+• à l'expérience utilisateur (UX) ;
+
+• à l'accessibilité ;
+
+• aux performances ;
+
+• au référencement (SEO) ;
+
+• à la sécurité ;
+
+• aux technologies utilisées ;
+
+• aux méthodes de travail ;
+
+• aux conventions de développement ;
+
+• aux ressources du projet ;
+
+• aux évolutions majeures du portfolio.
+
+
+======================================================================
+
+3.2 Décisions exclues
+
+Ne sont pas intégrés au registre :
+
+• les échanges préparatoires ;
+
+• les hypothèses de travail ;
+
+• les idées non validées ;
+
+• les propositions en cours d'étude ;
+
+• les essais techniques ;
+
+• les décisions temporaires ;
+
+• les corrections mineures ;
+
+• les ajustements sans impact sur le projet.
+
+Ces éléments peuvent être conservés dans les documents de travail,
+mais ne deviennent officiels qu'après validation du chef de projet.
+
+
+======================================================================
+
+3.3 Portée des décisions
+
+Une Décision validée peut avoir un impact sur un ou plusieurs
+documents du projet.
+
+Elle peut notamment entraîner la mise à jour :
+
+• du Document maître ;
+
+• du Cahier des charges ;
+
+• de l'Architecture technique ;
+
+• de la Charte graphique ;
+
+• du Catalogue des composants ;
+
+• des Guides de développement ;
+
+• du Journal des évolutions ;
+
+• du code source.
+
+Les impacts sont systématiquement identifiés lors de la validation de
+la décision.
+
+
+======================================================================
+
+3.4 Application
+
+Toute personne ou tout GPT intervenant sur le projet applique les
+Décisions validées.
+
+Aucune interprétation personnelle ne peut remplacer une décision
+officielle.
+
+En cas de doute, le registre des Décisions validées constitue la
+référence à consulter en priorité.
+
+
+======================================================================
+
+3.5 Principe directeur
+
+Le registre des Décisions validées ne documente pas toutes les actions
+réalisées dans le projet.
+
+Il documente uniquement les décisions qui modifient durablement le
+projet, ses règles, son fonctionnement ou son organisation.
+
+Seules les décisions ayant une portée structurante ou durable sont
+intégrées au présent document.
+
+
+======================================================================
+
+3.6 Critères d'enregistrement
+
+Une nouvelle Décision validée est créée lorsqu'un choix :
+
+• modifie une règle existante ;
+
+• crée une nouvelle règle ;
+
+• influence plusieurs documents du projet ;
+
+• impacte le développement du portfolio ;
+
+• modifie l'expérience utilisateur ;
+
+• affecte l'identité graphique ;
+
+• engage durablement le projet ;
+
+• nécessite une justification pour les évolutions futures.
+
+Lorsqu'un choix répond à l'un de ces critères, il doit être formalisé
+dans le présent registre avant sa mise en œuvre.
+
+======================================================================
+4. PROCESSUS DE DÉCISION
+======================================================================
+
+Le processus de décision garantit que toute évolution du projet est
+analysée, discutée, validée et documentée avant sa mise en œuvre.
+
+Il permet d'assurer une gouvernance rigoureuse, une parfaite
+traçabilité des choix réalisés et une cohérence permanente entre les
+documents de référence et les développements du portfolio.
+
+Aucune décision structurante ne peut être appliquée sans avoir suivi
+le présent processus.
+
+
+======================================================================
+
+4.1 Principe général
+
+Toute décision suit un processus unique.
+
+Aucune règle ne peut être créée, modifiée ou supprimée sans respecter
+les différentes étapes définies dans le présent document.
+
+Le processus de décision constitue une garantie de qualité,
+de cohérence et de stabilité du projet.
+
+
+======================================================================
+
+4.2 Identification du besoin
+
+Le processus débute lorsqu'un besoin est identifié.
+
+Ce besoin peut notamment concerner :
+
+• une évolution fonctionnelle ;
+
+• une évolution graphique ;
+
+• une évolution technique ;
+
+• une évolution documentaire ;
+
+• une amélioration de l'expérience utilisateur ;
+
+• une contrainte technique ;
+
+• une demande du chef de projet.
+
+
+======================================================================
+
+4.3 Analyse
+
+Le GPT Chef de projet réalise une analyse préalable.
+
+Cette analyse porte notamment sur :
+
+• le contexte ;
+
+• les objectifs ;
+
+• les bénéfices attendus ;
+
+• les risques éventuels ;
+
+• les impacts sur le projet ;
+
+• la compatibilité avec la documentation existante ;
+
+• la faisabilité technique.
+
+L'analyse est réalisée avant toute proposition.
+
+
+======================================================================
+
+4.4 Proposition
+
+À l'issue de l'analyse, le GPT Chef de projet formule une ou plusieurs
+propositions.
+
+Chaque proposition doit être :
+
+• argumentée ;
+
+• réaliste ;
+
+• compatible avec les documents de référence ;
+
+• compatible avec l'architecture du projet ;
+
+• justifiée.
+
+Le GPT Chef de projet ne prend jamais la décision.
+
+
+======================================================================
+
+4.5 Validation
+
+Le chef de projet étudie les propositions.
+
+Il peut :
+
+• valider une proposition ;
+
+• demander des compléments ;
+
+• demander une nouvelle analyse ;
+
+• refuser la proposition.
+
+La décision appartient exclusivement au chef de projet.
+
+
+======================================================================
+
+4.6 Formalisation
+
+Toute décision validée est immédiatement documentée.
+
+Elle reçoit :
+
+• un identifiant unique ;
+
+• un titre ;
+
+• une justification ;
+
+• son statut ;
+
+• les impacts documentaires identifiés.
+
+La décision devient alors officielle.
+
+
+======================================================================
+
+4.7 Application
+
+Une décision validée est ensuite appliquée.
+
+Les documents concernés sont mis à jour.
+
+Les développements futurs respectent obligatoirement cette décision.
+
+Aucune application partielle n'est autorisée sans validation du chef de
+projet.
+
+
+======================================================================
+
+4.8 Vérification
+
+Après son intégration, la décision est vérifiée.
+
+Cette vérification permet notamment de s'assurer :
+
+• de sa bonne application ;
+
+• de la cohérence des documents ;
+
+• de l'absence de contradiction ;
+
+• de l'absence de régression.
+
+Les éventuelles anomalies sont corrigées avant validation définitive.
+
+
+======================================================================
+
+4.9 Traçabilité
+
+Chaque étape du processus est conservée.
+
+Le projet permet ainsi d'identifier :
+
+• pourquoi la décision a été prise ;
+
+• quand elle a été prise ;
+
+• par qui elle a été validée ;
+
+• quels documents ont été modifiés ;
+
+• quelles conséquences elle entraîne.
+
+La traçabilité constitue une exigence permanente du projet.
+
+
+======================================================================
+
+4.10 Principe directeur
+
+Une décision officielle n'est jamais le résultat d'une hypothèse ou
+d'une interprétation.
+
+Elle est le résultat d'un processus structuré comprenant une analyse,
+une proposition, une validation, une formalisation et une application.
+
+La qualité du projet repose autant sur la qualité des décisions que sur
+la qualité de leur mise en œuvre.
+
+
+======================================================================
+
+4.11 Décision avant développement
+
+Aucun développement, aucune modification documentaire et aucune
+évolution graphique ne peuvent être engagés lorsqu'une Décision validée
+est requise mais n'a pas encore été formalisée.
+
+Le processus de décision précède systématiquement le développement.
+
+Une décision validée constitue l'autorisation officielle de mettre en
+œuvre une évolution du projet.
+
+Toute réalisation effectuée sans respecter ce principe est considérée
+comme non conforme à la gouvernance du projet.
+
+======================================================================
+5. CYCLE DE VIE D'UNE DÉCISION
+======================================================================
+
+Chaque Décision validée possède un cycle de vie clairement défini.
+
+Ce cycle garantit une gestion rigoureuse, une parfaite traçabilité et
+une évolution maîtrisée des décisions du projet.
+
+Une décision ne se limite pas à sa validation.
+
+Elle évolue tout au long de la vie du projet et peut être remplacée,
+complétée ou archivée sans jamais perdre son historique.
+
+
+======================================================================
+
+5.1 Principe général
+
+Chaque Décision validée suit un cycle de vie unique.
+
+Toutes les décisions respectent les mêmes étapes afin de garantir une
+gestion homogène sur l'ensemble du projet.
+
+Le cycle de vie assure la cohérence, la stabilité et la conservation
+des connaissances acquises.
+
+
+======================================================================
+
+5.2 Création
+
+Une décision est créée lorsqu'un besoin répond aux critères définis
+dans le présent document.
+
+Elle reçoit immédiatement :
+
+• un identifiant unique ;
+
+• un titre ;
+
+• une date ;
+
+• un statut initial ;
+
+• une première documentation.
+
+
+======================================================================
+
+5.3 Validation
+
+Après analyse et approbation du chef de projet, la décision devient
+officielle.
+
+Elle est intégrée au registre des Décisions validées.
+
+Elle devient immédiatement applicable selon les règles de gouvernance
+du projet.
+
+
+======================================================================
+
+5.4 Application
+
+La décision est mise en œuvre.
+
+Les documents concernés sont mis à jour.
+
+Les futurs développements doivent respecter cette décision.
+
+La décision devient une référence officielle du projet.
+
+
+======================================================================
+
+5.5 Suivi
+
+Pendant toute sa durée de vie, la décision fait l'objet d'un suivi.
+
+Ce suivi permet notamment de vérifier :
+
+• sa bonne application ;
+
+• sa pertinence ;
+
+• sa cohérence avec les autres décisions ;
+
+• son adéquation avec l'évolution du projet.
+
+
+======================================================================
+
+5.6 Évolution
+
+Une décision peut évoluer lorsque le projet le nécessite.
+
+Cette évolution ne modifie jamais la décision initiale.
+
+Elle donne lieu à une nouvelle Décision validée faisant référence à
+la précédente.
+
+La continuité historique est ainsi préservée.
+
+
+======================================================================
+
+5.7 Remplacement
+
+Lorsqu'une décision n'est plus adaptée, elle peut être remplacée.
+
+La nouvelle décision précise explicitement :
+
+• la décision remplacée ;
+
+• les raisons du remplacement ;
+
+• les impacts associés.
+
+La décision remplacée demeure conservée dans le registre.
+
+
+======================================================================
+
+5.8 Archivage
+
+Une décision devenue obsolète, remplacée ou abandonnée n'est jamais
+supprimée.
+
+Elle est archivée avec son historique complet.
+
+L'archivage garantit la mémoire du projet.
+
+
+======================================================================
+
+5.9 Consultation
+
+Une décision reste consultable pendant toute la durée de vie du
+projet.
+
+Son historique, son statut et ses relations avec les autres décisions
+demeurent accessibles.
+
+
+======================================================================
+
+5.10 Principe directeur
+
+Une Décision validée constitue un élément permanent de la mémoire du
+projet.
+
+Elle peut évoluer mais ne disparaît jamais.
+
+Le cycle de vie garantit la conservation de l'ensemble des décisions,
+de leur contexte et de leur justification.
+
+
+======================================================================
+
+5.11 Continuité des décisions
+
+Toute nouvelle Décision validée doit préserver la continuité du projet.
+
+Lorsqu'une décision remplace ou complète une décision existante, les
+liens entre ces décisions sont explicitement documentés.
+
+Le registre des Décisions validées constitue ainsi une chaîne continue
+de décisions permettant de comprendre l'évolution du projet depuis son
+origine.
+
+Aucune décision n'est isolée de son contexte ou de son historique.
+
+======================================================================
+6. FORMAT OFFICIEL D'UNE DÉCISION
+======================================================================
+
+Toutes les Décisions validées du projet utilisent un format unique.
+
+Cette standardisation garantit une lecture homogène, une meilleure
+compréhension et une parfaite traçabilité des décisions.
+
+Aucune Décision validée ne peut être enregistrée sous un format
+différent.
+
+Le modèle défini dans cette section constitue le format officiel du
+registre.
+
+
+======================================================================
+
+6.1 Principe général
+
+Chaque Décision validée est documentée selon une structure identique.
+
+Toutes les rubriques sont présentées dans le même ordre.
+
+Cette normalisation facilite :
+
+• la consultation ;
+
+• la recherche ;
+
+• la comparaison ;
+
+• la maintenance ;
+
+• la compréhension du registre.
+
+
+======================================================================
+
+6.2 Identifiant
+
+Chaque décision reçoit un identifiant unique.
+
+Exemple :
+
+DV-0001
+
+DV-0002
+
+DV-0003
+
+...
+
+L'identifiant est permanent.
+
+Il n'est jamais réutilisé.
+
+Il n'est jamais renuméroté.
+
+Il constitue la référence officielle de la décision.
+
+
+======================================================================
+
+6.3 Structure officielle
+
+Chaque Décision validée comprend obligatoirement les rubriques
+suivantes :
+
+• Identifiant
+
+• Titre
+
+• Date
+
+• Auteur de la proposition
+
+• Validée par
+
+• Contexte
+
+• Problématique
+
+• Analyse réalisée
+
+• Solutions étudiées
+
+• Décision retenue
+
+• Justification
+
+• Conséquences
+
+• Documents impactés
+
+• Développements impactés
+
+• Décisions liées
+
+• Statut
+
+• Historique
+
+• Observations
+
+Aucune rubrique obligatoire ne peut être supprimée.
+
+
+======================================================================
+
+6.4 Niveau de détail
+
+Chaque rubrique est renseignée avec un niveau de détail adapté à
+l'importance de la décision.
+
+Les informations doivent être :
+
+• précises ;
+
+• objectives ;
+
+• vérifiables ;
+
+• compréhensibles ;
+
+• suffisantes pour être interprétées plusieurs années après leur
+  rédaction.
+
+
+======================================================================
+
+6.5 Rédaction
+
+Les décisions sont rédigées de manière :
+
+• claire ;
+
+• concise ;
+
+• factuelle ;
+
+• neutre ;
+
+• sans ambiguïté.
+
+Les formulations imprécises ou sujettes à interprétation sont
+proscrites.
+
+
+======================================================================
+
+6.6 Références
+
+Lorsqu'une décision modifie ou complète une décision existante,
+celle-ci est explicitement référencée.
+
+Les liens avec les autres documents du projet sont également
+mentionnés lorsque cela est nécessaire.
+
+Chaque décision s'intègre ainsi dans le référentiel documentaire.
+
+
+======================================================================
+
+6.7 Complétude
+
+Une Décision validée n'est considérée comme complète que lorsque
+l'ensemble des rubriques obligatoires est renseigné.
+
+Une fiche incomplète ne peut être considérée comme une décision
+officielle.
+
+
+======================================================================
+
+6.8 Exemple de structure
+
+==================================================================
+DV-0001
+==================================================================
+
+Titre
+
+Date
+
+Auteur de la proposition
+
+Validation
+
+Contexte
+
+Problématique
+
+Analyse
+
+Solutions étudiées
+
+Décision retenue
+
+Justification
+
+Conséquences
+
+Documents impactés
+
+Développements impactés
+
+Décisions liées
+
+Statut
+
+Historique
+
+Observations
+
+
+======================================================================
+
+6.9 Principe directeur
+
+Toutes les Décisions validées utilisent le même modèle documentaire.
+
+La standardisation du format garantit la qualité du registre, facilite
+sa consultation et contribue directement à la gouvernance du projet.
+
+
+======================================================================
+
+6.10 Fiche autoportante
+
+Chaque Décision validée doit pouvoir être comprise indépendamment des
+autres décisions.
+
+Une personne découvrant uniquement la fiche concernée doit être en
+mesure de comprendre :
+
+• le contexte ;
+
+• le problème ;
+
+• les solutions étudiées ;
+
+• la décision retenue ;
+
+• les conséquences de cette décision.
+
+La compréhension d'une Décision validée ne doit jamais dépendre de la
+lecture préalable d'une autre fiche.
+
+Chaque fiche constitue un document autonome tout en restant intégrée
+au registre des Décisions validées.
+
+======================================================================
+7. STATUTS DES DÉCISIONS
+======================================================================
+
+Chaque Décision validée possède un statut officiel.
+
+Le statut indique son niveau d'avancement, sa validité et son
+applicabilité au sein du projet.
+
+À tout moment, une décision possède un seul statut officiel.
+
+Le statut constitue une information essentielle du registre des
+Décisions validées.
+
+
+======================================================================
+
+7.1 Principe général
+
+Le statut d'une décision permet de connaître immédiatement sa
+situation.
+
+Il facilite :
+
+• la consultation du registre ;
+
+• le suivi des décisions ;
+
+• la gouvernance du projet ;
+
+• l'application des décisions ;
+
+• la gestion des évolutions.
+
+Le changement de statut est documenté dans l'historique de la décision.
+
+
+======================================================================
+
+7.2 Proposition
+
+La décision est en cours d'élaboration.
+
+Elle résulte d'un besoin identifié mais n'a pas encore été analysée ou
+validée.
+
+Une décision au statut « Proposition » n'a aucun caractère officiel et
+ne peut être appliquée.
+
+
+======================================================================
+
+7.3 En étude
+
+La décision fait l'objet d'une analyse par le GPT Chef de projet.
+
+Les impacts, les avantages, les risques et les conséquences sont en
+cours d'évaluation.
+
+Aucune mise en œuvre ne peut être engagée durant cette phase.
+
+
+======================================================================
+
+7.4 Validée
+
+La décision a été approuvée par le chef de projet.
+
+Elle devient une règle officielle du projet.
+
+Elle est immédiatement applicable et s'impose à l'ensemble des
+intervenants.
+
+Les documents concernés doivent être mis à jour conformément à cette
+décision.
+
+
+======================================================================
+
+7.5 Remplacée
+
+La décision n'est plus en vigueur.
+
+Elle a été remplacée par une nouvelle Décision validée.
+
+Elle demeure consultable afin de préserver l'historique du projet.
+
+La décision de remplacement est explicitement référencée.
+
+
+======================================================================
+
+7.6 Abandonnée
+
+La décision a été étudiée mais n'a finalement pas été retenue.
+
+Les motifs de cet abandon sont conservés dans le registre.
+
+Une décision abandonnée ne produit aucun effet sur le projet mais
+conserve un intérêt documentaire.
+
+
+======================================================================
+
+7.7 Archivée
+
+La décision n'est plus active mais demeure conservée.
+
+Elle participe à la mémoire du projet et reste consultable à tout
+moment.
+
+L'archivage ne supprime jamais une décision.
+
+
+======================================================================
+
+7.8 Gestion des changements de statut
+
+Toute modification du statut d'une décision :
+
+• est datée ;
+
+• est documentée ;
+
+• est justifiée ;
+
+• est conservée dans l'historique.
+
+Le registre permet ainsi de retracer l'évolution complète de chaque
+décision.
+
+
+======================================================================
+
+7.9 Principe directeur
+
+Le statut d'une décision reflète exclusivement sa situation officielle.
+
+Une décision ne produit des effets sur le projet qu'à partir du moment
+où son statut est « Validée ».
+
+Les autres statuts permettent d'assurer la traçabilité complète de son
+cycle de vie.
+
+
+======================================================================
+
+7.10 Unicité du statut
+
+Une Décision validée ne peut posséder qu'un seul statut officiel à un
+instant donné.
+
+Tout changement de statut remplace le précédent tout en conservant son
+historique.
+
+Aucun cumul de statuts n'est autorisé.
+
+Cette règle garantit la clarté du registre et évite toute ambiguïté
+quant à la situation réelle d'une décision.
+
+======================================================================
+8. NUMÉROTATION
+======================================================================
+
+Chaque Décision validée reçoit un identifiant unique permettant son
+identification, sa consultation et sa traçabilité tout au long de la
+vie du projet.
+
+Cet identifiant constitue la référence officielle de la décision.
+
+Il est utilisé dans l'ensemble de la documentation du projet pour
+désigner une décision de manière précise et sans ambiguïté.
+
+
+======================================================================
+
+8.1 Principe général
+
+Toutes les Décisions validées sont numérotées selon une séquence
+unique.
+
+La numérotation est chronologique.
+
+Chaque identifiant est attribué une seule fois.
+
+Il devient définitivement associé à la décision concernée.
+
+
+======================================================================
+
+8.2 Format officiel
+
+Le format officiel est :
+
+DV-0001
+
+DV-0002
+
+DV-0003
+
+...
+
+Le préfixe « DV » signifie :
+
+Décision Validée.
+
+La partie numérique comporte toujours quatre chiffres afin de garantir
+une présentation homogène du registre.
+
+
+======================================================================
+
+8.3 Attribution
+
+L'identifiant est attribué au moment de la création officielle de la
+Décision validée.
+
+Une fois attribué :
+
+• il ne peut plus être modifié ;
+
+• il ne peut plus être réutilisé ;
+
+• il ne peut pas être transféré à une autre décision.
+
+
+======================================================================
+
+8.4 Unicité
+
+Chaque identifiant est unique.
+
+Deux décisions ne peuvent jamais partager le même numéro.
+
+L'unicité garantit la traçabilité et facilite les références dans
+l'ensemble du projet.
+
+
+======================================================================
+
+8.5 Permanence
+
+L'identifiant accompagne la décision pendant toute sa durée de vie.
+
+Même lorsqu'une décision est remplacée, abandonnée ou archivée, son
+identifiant est conservé.
+
+Aucune renumérotation n'est autorisée.
+
+
+======================================================================
+
+8.6 Référencement
+
+Les Décisions validées sont citées dans les autres documents du projet
+à l'aide de leur identifiant officiel.
+
+Exemples :
+
+DV-0012
+
+DV-0035
+
+DV-0104
+
+L'identifiant constitue la référence officielle dans l'ensemble du
+référentiel documentaire.
+
+
+======================================================================
+
+8.7 Continuité
+
+La séquence de numérotation est continue.
+
+Chaque nouvelle décision reçoit le numéro suivant disponible.
+
+Les numéros ne sont jamais réattribués, même lorsqu'une décision est
+abandonnée ou archivée.
+
+
+======================================================================
+
+8.8 Lisibilité
+
+L'identifiant doit toujours apparaître de manière visible en tête de
+chaque Décision validée.
+
+Il facilite :
+
+• la recherche ;
+
+• le classement ;
+
+• les références croisées ;
+
+• les analyses d'impact ;
+
+• la maintenance documentaire.
+
+
+======================================================================
+
+8.9 Principe directeur
+
+La numérotation garantit l'identification permanente des Décisions
+validées.
+
+Elle constitue un élément essentiel de la traçabilité et de la
+gouvernance du projet.
+
+L'identifiant d'une décision est immuable.
+
+
+======================================================================
+
+8.10 Références croisées
+
+Lorsqu'une Décision validée complète, remplace ou dépend d'une autre
+décision, les identifiants concernés sont explicitement mentionnés.
+
+Exemples :
+
+Décision remplacée :
+
+DV-0018
+
+Décision liée :
+
+DV-0024
+
+Décision complémentaire :
+
+DV-0031
+
+Les références croisées permettent de reconstituer facilement
+l'historique et les relations entre les décisions du projet.
+
+
+======================================================================
+
+8.11 Intégrité de la numérotation
+
+La séquence des identifiants constitue un registre officiel.
+
+Aucun numéro ne peut être réservé, ignoré ou supprimé volontairement.
+
+Si une Décision validée est abandonnée après l'attribution de son
+identifiant, celui-ci reste définitivement associé à cette décision,
+quel que soit son statut.
+
+L'intégrité de la numérotation garantit la fiabilité, la continuité et
+la crédibilité du registre des Décisions validées.
+
+======================================================================
+9. CLASSIFICATION DES DÉCISIONS
+======================================================================
+
+Chaque Décision validée est rattachée à une catégorie officielle.
+
+La classification permet d'organiser le registre, de faciliter les
+recherches et d'identifier rapidement le domaine concerné par chaque
+décision.
+
+La catégorie complète l'identifiant officiel de la décision sans s'y
+substituer.
+
+Elle constitue un outil de classement et d'analyse permettant de
+structurer durablement le registre des Décisions validées.
+
+
+======================================================================
+
+9.1 Principe général
+
+Chaque Décision validée appartient à une catégorie principale.
+
+Cette catégorie est définie lors de la création de la décision.
+
+Elle permet d'identifier immédiatement le domaine principalement
+concerné.
+
+Une décision conserve sa catégorie pendant toute sa durée de vie,
+sauf Décision validée contraire.
+
+
+======================================================================
+
+9.2 Catégories officielles
+
+Les catégories officielles du projet sont notamment :
+
+• Gouvernance
+
+• Documentation
+
+• Fonctionnel
+
+• Architecture technique
+
+• Développement
+
+• Charte graphique
+
+• Catalogue des composants
+
+• Expérience utilisateur (UX)
+
+• Accessibilité
+
+• Performances
+
+• Référencement (SEO)
+
+• Sécurité
+
+• Outils et technologies
+
+• Organisation
+
+Cette liste peut évoluer conformément aux règles de gouvernance du
+projet.
+
+Toute évolution de cette nomenclature fait l'objet d'une nouvelle
+Décision validée.
+
+
+======================================================================
+
+9.3 Catégorie principale
+
+Chaque Décision validée possède une seule catégorie principale.
+
+Cette catégorie correspond au domaine principalement impacté par la
+décision.
+
+Elle facilite :
+
+• le classement ;
+
+• les recherches ;
+
+• les statistiques ;
+
+• les analyses du projet.
+
+La catégorie principale ne peut être modifiée qu'après validation du
+chef de projet.
+
+
+======================================================================
+
+9.4 Domaines impactés
+
+Une Décision validée peut avoir des conséquences sur plusieurs domaines
+du projet.
+
+Ces domaines complémentaires sont identifiés dans les rubriques :
+
+• Documents impactés ;
+
+• Développements impactés ;
+
+• Impacts.
+
+Ils complètent la catégorie principale sans la remplacer.
+
+
+======================================================================
+
+9.5 Utilisation
+
+La classification permet notamment :
+
+• le filtrage des décisions ;
+
+• les recherches thématiques ;
+
+• les analyses d'impact ;
+
+• les statistiques du projet ;
+
+• la maintenance documentaire ;
+
+• le suivi des évolutions.
+
+Elle constitue un outil de gouvernance facilitant la consultation du
+registre.
+
+
+======================================================================
+
+9.6 Évolution des catégories
+
+Les catégories officielles peuvent évoluer afin d'accompagner le
+développement du projet.
+
+Toute création, suppression, fusion ou modification d'une catégorie
+fait obligatoirement l'objet d'une Décision validée.
+
+La cohérence de la classification doit être préservée dans le temps.
+
+
+======================================================================
+
+9.7 Principe directeur
+
+La classification constitue un outil d'organisation documentaire.
+
+Elle facilite la consultation du registre sans modifier la
+numérotation officielle des Décisions validées.
+
+Une décision possède toujours :
+
+• un identifiant unique ;
+
+• une catégorie principale.
+
+
+======================================================================
+
+9.8 Mots-clés
+
+Chaque Décision validée peut être associée à un ou plusieurs
+mots-clés.
+
+Les mots-clés facilitent :
+
+• les recherches ;
+
+• les regroupements thématiques ;
+
+• les analyses transversales ;
+
+• la navigation dans le registre.
+
+Ils complètent la catégorie principale sans s'y substituer.
+
+Les mots-clés sont choisis selon une nomenclature cohérente afin de
+garantir une indexation homogène de l'ensemble des décisions.
+
+
+======================================================================
+
+9.9 Cohérence de la classification
+
+La classification du registre doit rester homogène sur l'ensemble du
+projet.
+
+Une même décision ne peut appartenir qu'à une seule catégorie
+principale.
+
+Les catégories, domaines impactés et mots-clés doivent être utilisés de
+manière cohérente afin d'assurer la qualité des recherches, des
+analyses et de la gouvernance documentaire.
+
+Toute incohérence constatée doit être corrigée conformément au
+processus de Décision validée.
+
+======================================================================
+10. RÈGLES DE MODIFICATION
+======================================================================
+
+Les Décisions validées constituent des références officielles du
+projet.
+
+Afin de garantir leur intégrité, leur traçabilité et leur valeur
+historique, leur modification est strictement encadrée.
+
+Le présent chapitre définit les règles applicables à toute évolution
+du registre des Décisions validées.
+
+
+======================================================================
+
+10.1 Principe général
+
+Une Décision validée constitue un document officiel.
+
+Une fois validée, elle ne peut être modifiée librement.
+
+Toute évolution doit respecter les règles définies dans le présent
+chapitre.
+
+La stabilité du registre constitue une exigence permanente du projet.
+
+
+======================================================================
+
+10.2 Immutabilité
+
+Une Décision validée ne doit jamais être réécrite afin de modifier son
+contenu, son contexte ou sa justification.
+
+Les décisions représentent un état du projet à un instant donné.
+
+Leur conservation garantit la mémoire et la traçabilité du projet.
+
+
+======================================================================
+
+10.3 Corrections autorisées
+
+Seules les corrections suivantes sont autorisées sans création d'une
+nouvelle Décision validée :
+
+• correction d'une faute de frappe ;
+
+• correction d'une erreur typographique ;
+
+• correction d'une erreur de mise en page ;
+
+• amélioration de la lisibilité sans modification du sens.
+
+Ces corrections ne doivent jamais modifier le contenu ou
+l'interprétation de la décision.
+
+
+======================================================================
+
+10.4 Modifications interdites
+
+Sont notamment interdites :
+
+• la modification du contexte ;
+
+• la modification de la justification ;
+
+• la modification de la décision retenue ;
+
+• la suppression d'informations historiques ;
+
+• la modification des impacts ;
+
+• la suppression d'une décision.
+
+Ces modifications nécessitent obligatoirement une nouvelle Décision
+validée.
+
+
+======================================================================
+
+10.5 Nouvelle décision
+
+Lorsqu'une Décision validée doit évoluer, une nouvelle Décision
+validée est créée.
+
+Cette nouvelle décision :
+
+• possède son propre identifiant ;
+
+• référence la décision précédente ;
+
+• explique les raisons de l'évolution ;
+
+• précise les impacts associés.
+
+La décision initiale demeure inchangée.
+
+
+======================================================================
+
+10.6 Historique
+
+Le registre conserve l'ensemble des décisions successives.
+
+L'évolution d'une règle est documentée au moyen de nouvelles décisions
+plutôt que par la modification des décisions existantes.
+
+La continuité historique est ainsi préservée.
+
+
+======================================================================
+
+10.7 Cohérence documentaire
+
+Lorsqu'une nouvelle Décision validée remplace une décision existante,
+les documents concernés sont mis à jour.
+
+Les anciennes références sont conservées lorsque cela présente un
+intérêt historique.
+
+Les liens entre les décisions sont systématiquement documentés.
+
+
+======================================================================
+
+10.8 Vérification
+
+Toute évolution du registre fait l'objet d'une vérification.
+
+Cette vérification permet notamment de garantir :
+
+• le respect du présent document ;
+
+• la cohérence du registre ;
+
+• l'absence de contradiction ;
+
+• la continuité documentaire.
+
+
+======================================================================
+
+10.9 Principe directeur
+
+Une Décision validée constitue un élément permanent de la mémoire du
+projet.
+
+Elle ne disparaît jamais.
+
+Elle peut uniquement être remplacée par une nouvelle Décision validée,
+sans jamais perdre son historique.
+
+
+======================================================================
+
+10.10 Interdiction des modifications locales
+
+Aucune modification isolée d'une Décision validée n'est autorisée.
+
+Toute évolution ayant un impact sur plusieurs documents ou plusieurs
+règles doit être appliquée de manière cohérente à l'ensemble du
+référentiel documentaire.
+
+Une modification locale ne peut jamais créer une incohérence entre les
+Décisions validées et les autres documents du projet.
+
+Toute évolution est réalisée selon une approche globale garantissant la
+cohérence du référentiel.
+
+
+======================================================================
+
+10.11 Préservation de l'historique
+
+L'historique des Décisions validées constitue un patrimoine
+documentaire du projet.
+
+Aucune modification ne doit avoir pour effet de masquer, supprimer ou
+altérer une décision antérieure.
+
+Même lorsqu'une décision n'est plus applicable, elle demeure
+consultable avec son contexte, son statut et ses liens vers les
+décisions qui l'ont remplacée.
+
+La préservation de l'historique garantit la compréhension de
+l'évolution du projet et participe directement à sa gouvernance.
+
+======================================================================
+11. GESTION DES IMPACTS DOCUMENTAIRES
+======================================================================
+
+Toute Décision validée est susceptible d'avoir des conséquences sur un
+ou plusieurs documents du projet.
+
+L'identification et la gestion de ces impacts constituent une étape
+essentielle du processus de gouvernance.
+
+Le présent chapitre définit les règles permettant de garantir la
+cohérence permanente du référentiel documentaire.
+
+
+======================================================================
+
+11.1 Principe général
+
+Toute Décision validée fait l'objet d'une analyse de ses impacts.
+
+Cette analyse est réalisée avant la mise en œuvre de la décision.
+
+Son objectif est d'identifier l'ensemble des documents, composants et
+développements concernés.
+
+
+======================================================================
+
+11.2 Documents concernés
+
+Une Décision validée peut notamment impacter :
+
+• le Document maître ;
+
+• le Cahier des charges ;
+
+• l'Architecture technique ;
+
+• la Charte graphique ;
+
+• le Catalogue des composants ;
+
+• les Guides de développement ;
+
+• le Journal des évolutions ;
+
+• le code source ;
+
+• les ressources graphiques ;
+
+• les fichiers de configuration ;
+
+• toute autre documentation officielle du projet.
+
+
+======================================================================
+
+11.3 Analyse des impacts
+
+Chaque décision précise :
+
+• les documents concernés ;
+
+• les éléments à modifier ;
+
+• la nature des modifications ;
+
+• les éventuelles dépendances ;
+
+• les conséquences attendues.
+
+Cette analyse est intégrée à la fiche officielle de la décision.
+
+
+======================================================================
+
+11.4 Mise à jour documentaire
+
+Lorsqu'une Décision validée impacte un document officiel, celui-ci est
+mis à jour avant la clôture du processus de décision.
+
+Les mises à jour sont réalisées de manière cohérente sur l'ensemble du
+référentiel documentaire.
+
+
+======================================================================
+
+11.5 Cohérence documentaire
+
+Aucune Décision validée ne doit créer de contradiction entre les
+documents du projet.
+
+Chaque évolution est contrôlée afin de garantir :
+
+• l'uniformité des règles ;
+
+• la cohérence des informations ;
+
+• la compatibilité entre les documents.
+
+Toute incohérence identifiée doit être corrigée avant validation
+définitive.
+
+
+======================================================================
+
+11.6 Impacts sur le développement
+
+Les impacts documentaires sont systématiquement répercutés sur les
+développements concernés.
+
+Les règles définies dans la documentation deviennent les références
+officielles du développement.
+
+Le code source doit rester conforme au référentiel documentaire.
+
+
+======================================================================
+
+11.7 Vérification des impacts
+
+Avant la clôture d'une Décision validée, une vérification est réalisée.
+
+Elle permet de confirmer que :
+
+• tous les impacts ont été identifiés ;
+
+• tous les documents concernés ont été mis à jour ;
+
+• aucune incohérence n'a été introduite ;
+
+• les développements restent conformes.
+
+
+======================================================================
+
+11.8 Traçabilité
+
+Les impacts documentaires sont conservés dans la fiche de la Décision
+validée.
+
+Cette traçabilité permet de comprendre :
+
+• pourquoi un document a été modifié ;
+
+• quelles décisions sont à l'origine des évolutions ;
+
+• quels liens existent entre les documents.
+
+
+======================================================================
+
+11.9 Principe directeur
+
+Toute Décision validée est considérée comme transverse.
+
+Elle peut impacter plusieurs documents du projet.
+
+La gestion rigoureuse des impacts documentaires garantit la cohérence,
+la qualité et la pérennité du référentiel documentaire.
+
+
+======================================================================
+
+11.10 Application exhaustive
+
+Une Décision validée est appliquée dans l'ensemble des documents,
+composants et développements qu'elle impacte.
+
+Aucune mise à jour partielle n'est autorisée.
+
+Une décision est considérée comme complètement mise en œuvre
+uniquement lorsque tous les impacts documentaires, graphiques,
+techniques et fonctionnels ont été traités.
+
+La cohérence globale du projet prévaut toujours sur une modification
+locale.
+
+
+======================================================================
+
+11.11 Référentiel synchronisé
+
+L'ensemble de la documentation du projet constitue un référentiel
+unique.
+
+Les différents documents ne doivent jamais évoluer indépendamment les
+uns des autres.
+
+Toute évolution validée est répercutée sur l'ensemble des documents
+concernés afin de maintenir un référentiel parfaitement synchronisé.
+
+La synchronisation documentaire constitue une exigence permanente de la
+gouvernance du projet.
+
+======================================================================
+12. HISTORIQUE DES DÉCISIONS
+======================================================================
+
+Le registre des Décisions validées conserve l'historique complet de
+l'ensemble des décisions prises depuis l'origine du projet.
+
+Cet historique constitue la mémoire officielle du projet.
+
+Il permet de retracer l'évolution des orientations, des choix
+techniques, des règles de gouvernance et des évolutions documentaires.
+
+Aucune décision n'est supprimée du registre.
+
+
+======================================================================
+
+12.1 Principe général
+
+L'historique des Décisions validées est conservé de manière permanente.
+
+Chaque décision reste accessible, quel que soit son statut.
+
+Le registre permet ainsi de comprendre l'évolution du projet dans son
+ensemble.
+
+
+======================================================================
+
+12.2 Conservation
+
+Toutes les décisions sont conservées :
+
+• validées ;
+
+• remplacées ;
+
+• abandonnées ;
+
+• archivées.
+
+Leur suppression est interdite.
+
+
+======================================================================
+
+12.3 Traçabilité
+
+L'historique permet notamment d'identifier :
+
+• la date de création ;
+
+• la date de validation ;
+
+• les évolutions éventuelles ;
+
+• les décisions remplacées ;
+
+• les décisions liées ;
+
+• les impacts documentaires.
+
+Chaque évolution reste parfaitement traçable.
+
+
+======================================================================
+
+12.4 Consultation
+
+L'historique demeure consultable pendant toute la durée de vie du
+projet.
+
+Les anciennes décisions restent accessibles afin de comprendre les
+choix réalisés et leur contexte.
+
+
+======================================================================
+
+12.5 Continuité documentaire
+
+Les liens entre les décisions successives sont conservés.
+
+Le registre permet ainsi de suivre l'évolution d'une règle depuis sa
+création jusqu'à sa version la plus récente.
+
+Cette continuité garantit une parfaite compréhension de l'histoire du
+projet.
+
+
+======================================================================
+
+12.6 Intégrité de l'historique
+
+L'historique constitue une source officielle d'information.
+
+Aucune décision ne peut être supprimée, masquée ou modifiée de manière
+à altérer la compréhension des évolutions du projet.
+
+Toute correction autorisée reste identifiable.
+
+
+======================================================================
+
+12.7 Utilisation de l'historique
+
+L'historique permet notamment :
+
+• de comprendre les choix réalisés ;
+
+• d'analyser les évolutions du projet ;
+
+• de faciliter les analyses d'impact ;
+
+• de préparer de nouvelles décisions ;
+
+• d'assurer la continuité de la gouvernance.
+
+Il constitue un outil permanent d'aide à la décision.
+
+
+======================================================================
+
+12.8 Vérification
+
+Le registre est régulièrement contrôlé afin de garantir :
+
+• l'exhaustivité des décisions ;
+
+• la cohérence des références ;
+
+• la qualité des liens entre les décisions ;
+
+• la conservation de l'historique.
+
+Toute anomalie est corrigée conformément aux règles de gouvernance.
+
+
+======================================================================
+
+12.9 Principe directeur
+
+L'historique des Décisions validées constitue le patrimoine
+documentaire du projet.
+
+Il garantit la mémoire, la traçabilité et la compréhension de toutes
+les orientations prises depuis la création du portfolio.
+
+
+======================================================================
+
+12.10 Chronologie des décisions
+
+Le registre présente les Décisions validées selon leur ordre
+chronologique de création.
+
+Cette organisation permet de suivre naturellement l'évolution du
+projet.
+
+La chronologie ne peut être modifiée que pour corriger une erreur
+matérielle de classement sans altérer les identifiants attribués.
+
+
+======================================================================
+
+12.11 Valeur historique
+
+Les Décisions validées constituent le témoignage de l'évolution du
+projet.
+
+Même lorsqu'une décision n'est plus applicable, elle conserve une
+valeur historique, documentaire et pédagogique.
+
+L'historique permet de comprendre non seulement les décisions
+actuellement en vigueur, mais également les raisons ayant conduit à
+leur évolution.
+
+La conservation de cette mémoire participe directement à la qualité, à
+la stabilité et à la pérennité du projet.
+
+======================================================================
+13. ARCHIVAGE
+======================================================================
+
+L'archivage garantit la conservation durable des Décisions validées.
+
+Il assure la disponibilité, l'intégrité et la traçabilité du registre
+tout au long de la vie du projet.
+
+L'archivage constitue une composante essentielle de la gouvernance
+documentaire.
+
+
+======================================================================
+
+13.1 Principe général
+
+Toutes les Décisions validées sont conservées dans le registre officiel
+du projet.
+
+Aucune décision ne peut être supprimée du référentiel documentaire.
+
+L'archivage garantit la conservation permanente des décisions et de
+leur historique.
+
+
+======================================================================
+
+13.2 Décisions archivées
+
+Peuvent notamment être archivées :
+
+• les décisions remplacées ;
+
+• les décisions abandonnées ;
+
+• les décisions devenues obsolètes ;
+
+• les décisions clôturées.
+
+L'archivage ne remet jamais en cause leur existence.
+
+
+======================================================================
+
+13.3 Intégrité des archives
+
+Les archives conservent :
+
+• l'identifiant officiel ;
+
+• le contenu de la décision ;
+
+• son historique ;
+
+• son statut ;
+
+• ses références ;
+
+• ses liens avec les autres décisions.
+
+Aucune information historique ne peut être supprimée.
+
+
+======================================================================
+
+13.4 Classement
+
+Les décisions archivées restent organisées selon les règles de
+numérotation, de classification et de référencement définies dans le
+présent document.
+
+Le classement doit permettre une consultation simple et rapide.
+
+
+======================================================================
+
+13.5 Consultation
+
+Les décisions archivées restent consultables à tout moment.
+
+Leur consultation permet notamment :
+
+• de comprendre l'évolution du projet ;
+
+• d'analyser les choix antérieurs ;
+
+• de préparer de nouvelles décisions ;
+
+• de répondre aux besoins de traçabilité.
+
+L'archivage ne limite jamais l'accès aux informations.
+
+
+======================================================================
+
+13.6 Conservation
+
+Les décisions archivées sont conservées pendant toute la durée de vie
+du projet.
+
+Aucune durée maximale de conservation n'est définie.
+
+La mémoire documentaire constitue un patrimoine permanent.
+
+
+======================================================================
+
+13.7 Vérification
+
+Le registre fait l'objet de contrôles réguliers afin de garantir :
+
+• la présence des archives ;
+
+• leur intégrité ;
+
+• leur cohérence ;
+
+• leur accessibilité.
+
+Toute anomalie est corrigée conformément aux règles de gouvernance.
+
+
+======================================================================
+
+13.8 Principe directeur
+
+L'archivage ne consiste pas à faire disparaître une décision.
+
+Il consiste à préserver durablement son existence, son contexte et son
+historique afin de garantir la mémoire du projet.
+
+
+======================================================================
+
+13.9 Archivage logique
+
+L'archivage est réalisé de manière logique.
+
+Une décision archivée reste intégrée au registre officiel.
+
+Elle conserve :
+
+• son identifiant ;
+
+• ses références ;
+
+• ses liens avec les autres décisions ;
+
+• sa position dans l'historique.
+
+L'archivage ne crée jamais un registre parallèle.
+
+
+======================================================================
+
+13.10 Pérennité documentaire
+
+L'archivage garantit la transmission des connaissances acquises tout au
+long du projet.
+
+Les décisions archivées demeurent une source officielle d'information
+et participent à la compréhension de l'évolution du portfolio.
+
+La pérennité documentaire constitue une exigence permanente de la
+gouvernance du projet.
+
+Les archives font partie intégrante du référentiel documentaire et
+conservent la même valeur historique que les décisions actives.
+
+======================================================================
+14. RECHERCHE ET CONSULTATION
+======================================================================
+
+Le registre des Décisions validées est conçu pour permettre une
+consultation simple, rapide et efficace.
+
+Chaque décision doit pouvoir être retrouvée, comprise et consultée
+sans difficulté, quel que soit le stade d'avancement du projet.
+
+Les règles définies dans le présent chapitre garantissent
+l'exploitabilité permanente du registre.
+
+
+======================================================================
+
+14.1 Principe général
+
+Le registre doit permettre un accès rapide à toute Décision validée.
+
+L'organisation du document facilite la recherche, la navigation et la
+consultation de l'ensemble des décisions.
+
+La consultation du registre constitue une étape préalable à toute
+nouvelle proposition ou évolution du projet.
+
+
+======================================================================
+
+14.2 Recherche par identifiant
+
+Chaque Décision validée peut être retrouvée grâce à son identifiant
+officiel.
+
+Exemples :
+
+DV-0008
+
+DV-0021
+
+DV-0145
+
+L'identifiant constitue le moyen de recherche le plus précis.
+
+
+======================================================================
+
+14.3 Recherche par catégorie
+
+Les décisions peuvent être consultées selon leur catégorie
+principale.
+
+Exemples :
+
+• Gouvernance ;
+
+• Documentation ;
+
+• Architecture technique ;
+
+• Charte graphique ;
+
+• Développement ;
+
+• Expérience utilisateur (UX) ;
+
+• Accessibilité ;
+
+• Référencement (SEO).
+
+Cette organisation facilite les recherches thématiques.
+
+
+======================================================================
+
+14.4 Recherche par mots-clés
+
+Les mots-clés permettent d'effectuer des recherches transversales.
+
+Ils facilitent notamment la recherche par :
+
+• technologie ;
+
+• fonctionnalité ;
+
+• composant ;
+
+• règle ;
+
+• document concerné.
+
+Les mots-clés complètent la classification officielle.
+
+
+======================================================================
+
+14.5 Recherche par statut
+
+Le registre permet également de consulter les décisions selon leur
+statut.
+
+Par exemple :
+
+• Proposition ;
+
+• En étude ;
+
+• Validée ;
+
+• Remplacée ;
+
+• Abandonnée ;
+
+• Archivée.
+
+Cette recherche facilite le suivi du projet.
+
+
+======================================================================
+
+14.6 Recherche chronologique
+
+Les décisions peuvent être consultées selon leur ordre de création.
+
+Cette consultation permet de comprendre naturellement l'évolution du
+projet au fil du temps.
+
+
+======================================================================
+
+14.7 Consultation des relations
+
+Chaque Décision validée indique, lorsque cela est applicable :
+
+• les décisions remplacées ;
+
+• les décisions complémentaires ;
+
+• les décisions liées ;
+
+• les décisions ayant un impact commun.
+
+Ces liens facilitent la compréhension globale du projet.
+
+
+======================================================================
+
+14.8 Consultation contextuelle
+
+La consultation d'une décision permet également d'accéder à son
+contexte, à sa justification, à ses impacts et à ses références
+documentaires.
+
+Chaque fiche est autoportante et peut être comprise indépendamment des
+autres décisions.
+
+
+======================================================================
+
+14.9 Vérification préalable
+
+Avant toute nouvelle proposition ou évolution du projet, le registre
+est consulté afin de vérifier si une décision équivalente existe déjà.
+
+Cette vérification évite :
+
+• les doublons ;
+
+• les contradictions ;
+
+• les décisions incompatibles ;
+
+• les remises en question inutiles.
+
+
+======================================================================
+
+14.10 Principe directeur
+
+Le registre constitue la référence officielle pour toute consultation
+relative aux décisions du projet.
+
+Toute recherche doit privilégier le registre avant toute nouvelle
+analyse ou proposition.
+
+
+======================================================================
+
+14.11 Consultation avant décision
+
+Avant toute nouvelle analyse, proposition ou développement, le GPT
+Chef de projet consulte systématiquement le registre des Décisions
+validées.
+
+Cette consultation permet de vérifier si une règle, une décision ou
+une orientation existe déjà.
+
+Aucune nouvelle Décision validée ne doit être créée lorsqu'une
+décision équivalente est déjà en vigueur.
+
+La consultation préalable constitue une règle de gouvernance du
+projet.
+
+
+======================================================================
+
+14.12 Le registre comme source officielle
+
+Le registre des Décisions validées constitue la source officielle de
+référence concernant les orientations du projet.
+
+En cas de doute, d'interprétation ou de contradiction, le registre
+prévaut sur tout échange, toute note de travail ou toute proposition
+non validée.
+
+La consultation du registre garantit une prise de décision fondée sur
+les orientations officiellement retenues.
+
+Le registre participe directement à la cohérence, à la stabilité et à
+la gouvernance du projet.
+
+
+======================================================================
+
+14.13 Consultation contextuelle obligatoire
+
+La consultation d'une Décision validée ne se limite pas à son contenu.
+
+Lorsque cela est pertinent, elle inclut également :
+
+• les décisions liées ;
+
+• les décisions remplacées ou remplaçantes ;
+
+• les documents impactés ;
+
+• les impacts sur le développement ;
+
+• les références documentaires associées.
+
+Cette consultation contextuelle garantit une compréhension globale de
+la décision et évite toute interprétation partielle de ses effets.
+
+Une décision ne doit jamais être analysée indépendamment de son
+environnement documentaire lorsque celui-ci influence sa portée.
+
+======================================================================
+15. RESPONSABILITÉS
+======================================================================
+
+La gouvernance des Décisions validées repose sur une répartition claire
+des responsabilités.
+
+Chaque acteur intervient dans un rôle précisément défini afin de
+garantir la qualité, la cohérence et la traçabilité des décisions du
+projet.
+
+Aucune responsabilité ne peut être exercée en dehors du cadre défini
+par le présent document.
+
+
+======================================================================
+
+15.1 Principe général
+
+Les responsabilités sont réparties entre :
+
+• le Chef de projet ;
+
+• le GPT Chef de projet.
+
+Chaque acteur intervient dans son domaine de compétence.
+
+Les rôles sont complémentaires et ne se substituent jamais l'un à
+l'autre.
+
+
+======================================================================
+
+15.2 Responsabilités du Chef de projet
+
+Le Chef de projet est l'autorité décisionnelle du projet.
+
+À ce titre, il est seul habilité à :
+
+• définir les orientations du projet ;
+
+• valider ou refuser une décision ;
+
+• arbitrer entre plusieurs propositions ;
+
+• autoriser les évolutions du référentiel ;
+
+• fixer les priorités ;
+
+• approuver les modifications des documents officiels.
+
+La responsabilité finale de chaque Décision validée lui appartient.
+
+
+======================================================================
+
+15.3 Responsabilités du GPT Chef de projet
+
+Le GPT Chef de projet assiste le Chef de projet dans la préparation et
+la gestion des Décisions validées.
+
+Il est notamment chargé de :
+
+• analyser les besoins ;
+
+• réaliser les études préalables ;
+
+• identifier les impacts ;
+
+• proposer des solutions argumentées ;
+
+• préparer les fiches de Décision validée ;
+
+• contrôler la cohérence documentaire ;
+
+• vérifier l'application des règles de gouvernance.
+
+Le GPT Chef de projet ne possède aucun pouvoir décisionnel.
+
+
+======================================================================
+
+15.4 Validation
+
+Toute Décision validée nécessite l'approbation explicite du Chef de
+projet.
+
+Aucune proposition, recommandation ou analyse réalisée par le GPT Chef
+de projet ne devient officielle sans cette validation.
+
+La validation constitue l'acte fondateur d'une Décision validée.
+
+
+======================================================================
+
+15.5 Application
+
+Une fois la décision validée :
+
+• le GPT Chef de projet prépare les mises à jour ;
+
+• les documents concernés sont actualisés ;
+
+• les impacts sont vérifiés ;
+
+• la cohérence du référentiel est contrôlée.
+
+L'application respecte les règles définies dans le présent document.
+
+
+======================================================================
+
+15.6 Contrôle
+
+Le GPT Chef de projet contrôle en permanence :
+
+• la cohérence documentaire ;
+
+• le respect des Décisions validées ;
+
+• les impacts documentaires ;
+
+• les éventuelles contradictions.
+
+Toute anomalie est signalée au Chef de projet avant toute correction.
+
+
+======================================================================
+
+15.7 Limites d'intervention
+
+Le GPT Chef de projet ne peut jamais :
+
+• valider une décision ;
+
+• modifier une décision validée ;
+
+• supprimer une décision ;
+
+• contourner une règle de gouvernance ;
+
+• appliquer une évolution non validée.
+
+Ces actions relèvent exclusivement du Chef de projet.
+
+
+======================================================================
+
+15.8 Collaboration
+
+Le Chef de projet et le GPT Chef de projet travaillent selon un
+principe de collaboration permanente.
+
+Le GPT apporte son expertise, ses analyses et ses recommandations.
+
+Le Chef de projet conserve l'entière maîtrise des orientations du
+projet.
+
+
+======================================================================
+
+15.9 Principe directeur
+
+La gouvernance repose sur une séparation claire entre :
+
+• l'analyse ;
+
+• la proposition ;
+
+• la décision ;
+
+• l'application.
+
+Cette répartition garantit une gouvernance rigoureuse, transparente et
+parfaitement traçable.
+
+
+======================================================================
+
+15.10 Obligation d'alerte
+
+Le GPT Chef de projet signale au Chef de projet toute situation
+susceptible de compromettre :
+
+• la cohérence documentaire ;
+
+• le respect d'une Décision validée ;
+
+• la conformité du référentiel ;
+
+• la qualité du projet.
+
+Cette obligation d'alerte s'applique avant toute mise en œuvre d'une
+évolution.
+
+
+======================================================================
+
+15.11 Principe de responsabilité finale
+
+Le Chef de projet demeure responsable de l'ensemble des Décisions
+validées et des orientations retenues pour le projet.
+
+Le GPT Chef de projet agit exclusivement comme assistant à la décision.
+
+Il prépare, analyse, contrôle et accompagne les évolutions, mais ne se
+substitue jamais au Chef de projet.
+
+Cette répartition des responsabilités garantit une gouvernance claire,
+une prise de décision maîtrisée et une parfaite traçabilité des choix
+effectués.
+
+======================================================================
+16. PRINCIPE DE PRIMAUTÉ
+======================================================================
+
+Le registre des Décisions validées constitue la référence officielle
+pour l'ensemble des décisions stratégiques, techniques,
+organisationnelles et documentaires du projet.
+
+Le présent chapitre définit la valeur documentaire des Décisions
+validées au sein du référentiel du projet.
+
+
+======================================================================
+
+16.1 Principe général
+
+Une Décision validée devient la référence officielle dès sa validation
+par le Chef de projet.
+
+Elle s'impose à l'ensemble des développements, des documents et des
+travaux futurs jusqu'à son éventuel remplacement.
+
+Toute évolution du projet respecte les Décisions validées en vigueur.
+
+
+======================================================================
+
+16.2 Autorité documentaire
+
+Une Décision validée prévaut sur :
+
+• les échanges de travail ;
+
+• les notes préparatoires ;
+
+• les propositions non validées ;
+
+• les hypothèses ;
+
+• les brouillons ;
+
+• les discussions informelles.
+
+Seules les Décisions validées font foi.
+
+
+======================================================================
+
+16.3 Cohérence du référentiel
+
+Les Décisions validées et les autres documents officiels constituent
+un référentiel unique.
+
+Lorsqu'une Décision validée entraîne une évolution, les documents
+concernés sont mis à jour conformément aux règles de synchronisation
+du projet.
+
+Aucun document officiel ne doit rester en contradiction avec une
+Décision validée en vigueur.
+
+
+======================================================================
+
+16.4 Résolution des contradictions
+
+En cas de contradiction entre :
+
+• une Décision validée ;
+
+• une proposition non validée ;
+
+• une note de travail ;
+
+• un document intermédiaire ;
+
+la Décision validée constitue la référence applicable jusqu'à la mise
+à jour complète du référentiel documentaire.
+
+
+======================================================================
+
+16.5 Primauté temporaire
+
+Entre la validation d'une Décision validée et la mise à jour des
+documents impactés, la Décision validée fait temporairement autorité.
+
+Les documents concernés doivent ensuite être synchronisés dans les
+meilleurs délais conformément aux règles de gouvernance.
+
+
+======================================================================
+
+16.6 Limites de la primauté
+
+La primauté d'une Décision validée s'exerce dans le respect des autres
+documents officiels du projet.
+
+Une Décision validée ne dispense jamais de mettre à jour les documents
+impactés.
+
+La cohérence du référentiel documentaire demeure un objectif
+permanent.
+
+
+======================================================================
+
+16.7 Application
+
+Toute personne ou tout GPT intervenant sur le projet applique les
+Décisions validées en vigueur.
+
+En cas de doute, le registre constitue la première référence à
+consulter.
+
+
+======================================================================
+
+16.8 Principe directeur
+
+Les Décisions validées constituent la référence officielle des choix
+retenus pour le projet.
+
+Elles garantissent une gouvernance stable, cohérente et parfaitement
+traçable.
+
+La primauté des Décisions validées s'exerce toujours dans le respect
+de la cohérence globale du référentiel documentaire.
+
+
+======================================================================
+
+16.9 Absence d'interprétation
+
+Une Décision validée s'applique conformément à son contenu officiel.
+
+Elle ne peut être modifiée, complétée ou interprétée de manière à en
+altérer le sens.
+
+En cas d'ambiguïté, une nouvelle Décision validée est créée afin de
+préciser ou de faire évoluer la règle existante.
+
+Aucune interprétation personnelle ne peut remplacer une Décision
+validée.
+
+
+======================================================================
+
+16.10 Principe de référence unique
+
+Les Décisions validées constituent la référence officielle unique
+concernant les orientations du projet.
+
+Toute proposition, tout développement ou toute évolution s'appuie en
+priorité sur les Décisions validées en vigueur.
+
+Ce principe garantit une gouvernance homogène, une parfaite
+traçabilité des choix réalisés et une cohérence durable de l'ensemble
+du référentiel documentaire.
+
+======================================================================
+17. PHILOSOPHIE DES DÉCISIONS VALIDÉES
+======================================================================
+
+Les Décisions validées constituent le socle de la gouvernance du
+projet.
+
+Elles traduisent les orientations retenues, les choix assumés et les
+principes qui guident durablement le développement du portfolio.
+
+Au-delà d'un simple registre documentaire, elles représentent la
+mémoire, la cohérence et la vision du projet.
+
+Le présent chapitre expose les principes fondateurs qui inspirent
+l'ensemble du système des Décisions validées.
+
+
+======================================================================
+
+17.1 Construire avant de développer
+
+Le projet privilégie systématiquement la réflexion avant la réalisation.
+
+Chaque évolution est analysée, discutée, documentée et validée avant
+d'être mise en œuvre.
+
+La qualité d'un développement repose avant tout sur la qualité des
+décisions qui le précèdent.
+
+
+======================================================================
+
+17.2 Documenter avant d'agir
+
+Toute évolution importante fait l'objet d'une documentation préalable.
+
+La documentation accompagne la décision et devient la référence de son
+application.
+
+Le projet privilégie toujours la compréhension avant l'exécution.
+
+
+======================================================================
+
+17.3 Une seule source de vérité
+
+Les Décisions validées constituent la référence officielle des choix
+retenus.
+
+L'ensemble du référentiel documentaire est synchronisé avec ces
+décisions afin de garantir une information unique, cohérente et
+fiable.
+
+La multiplication des versions ou des règles contradictoires est
+proscrite.
+
+
+======================================================================
+
+17.4 Préserver la mémoire
+
+Chaque décision participe à l'histoire du projet.
+
+Même lorsqu'une décision évolue ou devient obsolète, son existence est
+préservée afin de comprendre les raisons des choix passés.
+
+La mémoire constitue une richesse indispensable à la qualité du
+référentiel.
+
+
+======================================================================
+
+17.5 Rechercher la cohérence
+
+La cohérence prévaut toujours sur les solutions ponctuelles.
+
+Chaque décision est analysée dans son impact global sur le projet.
+
+Le développement, la documentation, l'identité graphique et
+l'organisation évoluent de manière harmonisée.
+
+
+======================================================================
+
+17.6 Favoriser l'évolutivité
+
+Les Décisions validées ne figent pas le projet.
+
+Elles offrent un cadre stable permettant d'accompagner les évolutions
+sans remettre en cause la cohérence du référentiel.
+
+Le projet est conçu pour évoluer durablement.
+
+
+======================================================================
+
+17.7 Garantir la traçabilité
+
+Chaque décision est identifiable, documentée, justifiée et conservée.
+
+La traçabilité permet de comprendre les orientations prises et de
+préparer les évolutions futures en toute connaissance de cause.
+
+Elle constitue un facteur essentiel de qualité.
+
+
+======================================================================
+
+17.8 Encourager l'amélioration continue
+
+Le projet considère chaque évolution comme une opportunité
+d'amélioration.
+
+Les Décisions validées permettent de faire évoluer le référentiel de
+manière progressive, maîtrisée et documentée.
+
+L'amélioration continue s'inscrit dans une démarche de qualité durable.
+
+
+======================================================================
+
+17.9 Transmission des connaissances
+
+Les Décisions validées facilitent la transmission des connaissances
+entre les différents intervenants.
+
+Elles permettent de comprendre non seulement les règles en vigueur,
+mais également leur origine, leur justification et leur évolution.
+
+Le savoir du projet devient un patrimoine partagé.
+
+
+======================================================================
+
+17.10 Vision à long terme
+
+Les Décisions validées ne répondent pas uniquement aux besoins
+immédiats.
+
+Elles sont conçues pour accompagner le développement du projet sur le
+long terme.
+
+Chaque décision est prise avec la volonté de préserver la stabilité,
+la qualité et la pérennité du portfolio.
+
+
+======================================================================
+
+17.11 Principe fondateur
+
+Le projet repose sur une conviction simple :
+
+Une décision réfléchie, documentée, validée et conservée possède une
+valeur supérieure à une solution rapide non documentée.
+
+Les Décisions validées constituent ainsi le fondement de la
+gouvernance, de la qualité documentaire et de l'évolution maîtrisée du
+portfolio.
+
+
+======================================================================
+
+17.12 Devise du référentiel
+
+Décider avant d'agir.
+
+Documenter avant de développer.
+
+Synchroniser avant de publier.
+
+Préserver avant d'oublier.
+
+Améliorer sans jamais perdre la mémoire.
+
+Ces principes résument la philosophie du projet et guident
+l'ensemble des Décisions validées.
+
+Ils constituent le socle de la gouvernance documentaire du portfolio.

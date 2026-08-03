@@ -1,0 +1,1940 @@
+======================================================================
+02 - ARCHITECTURE TECHNIQUE
+======================================================================
+
+======================================================================
+1. PRÉSENTATION DE L'ARCHITECTURE
+======================================================================
+
+L'architecture technique du projet E-CV Eddy Lemahieu définit le cadre
+de développement utilisé pour concevoir, maintenir et faire évoluer le
+portfolio.
+
+Elle garantit une organisation claire, cohérente, évolutive et
+maintenable de l'ensemble du projet.
+
+Son objectif est d'assurer que tous les développements réalisés
+respectent les mêmes règles techniques, la même organisation des
+fichiers et les mêmes méthodes de travail.
+
+L'architecture constitue la référence technique du projet.
+
+Elle est utilisée par le GPT Chef de projet pour rédiger les
+spécifications et par le GPT Développeur pour réaliser les
+développements.
+
+Toute évolution technique devra respecter cette architecture ou faire
+l'objet d'une validation préalable du chef de projet.
+
+L'architecture est conçue afin de privilégier la simplicité, la
+maintenabilité, la cohérence et l'évolutivité plutôt que la complexité
+technique.
+
+======================================================================
+2. ENVIRONNEMENT TECHNIQUE
+======================================================================
+
+Le projet E-CV Eddy Lemahieu est développé dans un environnement
+technique maîtrisé, stable et entièrement documenté.
+
+L'ensemble des outils utilisés est sélectionné afin de garantir la
+simplicité, la cohérence, la maintenabilité et la pérennité du projet.
+
+
+======================================================================
+
+2.1 Environnement de développement
+
+Le développement est réalisé sous :
+
+• Microsoft Visual Studio Code.
+
+
+======================================================================
+
+2.2 Gestion du code source
+
+Le code source est géré avec :
+
+• Git.
+
+L'ensemble des modifications est versionné afin d'assurer un suivi
+fiable des évolutions du projet.
+
+
+======================================================================
+
+2.3 Hébergement du code
+
+Le dépôt officiel du projet est hébergé sur :
+
+• GitHub.
+
+
+======================================================================
+
+2.4 Publication
+
+Le site est publié via :
+
+• GitHub Pages.
+
+Toutes les fonctionnalités développées devront être compatibles avec
+les contraintes de cette plateforme.
+
+
+======================================================================
+
+2.5 Environnement d'exécution
+
+Le portfolio est conçu pour être exécuté directement dans un navigateur
+Web moderne, sans installation particulière.
+
+Il ne nécessite aucun serveur applicatif ni base de données.
+
+
+======================================================================
+
+2.6 Principe directeur
+
+L'environnement technique du projet doit rester le plus simple
+possible.
+
+Toute évolution de cet environnement devra être justifiée par un
+bénéfice concret pour le projet et validée par le chef de projet.
+
+
+======================================================================
+
+2.7 Environnement de test
+
+Les développements sont systématiquement testés en environnement local
+avant leur publication sur GitHub Pages.
+
+Aucune modification ne doit être publiée sans avoir été
+préalablement vérifiée.
+
+Le cycle de développement du projet respecte l'ordre suivant :
+
+Développement
+
+↓
+
+Test en environnement local
+
+↓
+
+Publication sur GitHub Pages
+
+↓
+
+Vérification en ligne
+
+Toute anomalie détectée après publication doit être corrigée et
+validée avant la poursuite des développements.
+
+======================================================================
+3. TECHNOLOGIES RETENUES
+======================================================================
+
+Le projet E-CV Eddy Lemahieu repose sur un ensemble de technologies
+simples, éprouvées et compatibles avec l'environnement technique
+retenu.
+
+Le choix des technologies privilégie la simplicité, la compatibilité,
+la maintenabilité et les performances plutôt que la complexité
+technique.
+
+
+======================================================================
+
+3.1 Langages de développement
+
+Les technologies de développement retenues sont exclusivement :
+
+• HTML5 ;
+
+• CSS3 ;
+
+• JavaScript Vanilla (ECMAScript).
+
+
+======================================================================
+
+3.2 Technologies exclues
+
+Sauf validation expresse du chef de projet, les technologies suivantes
+ne sont pas utilisées :
+
+• PHP ;
+
+• ASP.NET ;
+
+• Node.js ;
+
+• Python côté serveur ;
+
+• Java ;
+
+• Ruby ;
+
+• toute base de données relationnelle ou NoSQL ;
+
+• tout framework nécessitant un serveur d'exécution.
+
+
+======================================================================
+
+3.3 Compatibilité
+
+Toutes les technologies utilisées doivent être entièrement compatibles
+avec :
+
+• GitHub Pages ;
+
+• Microsoft Visual Studio Code ;
+
+• Git ;
+
+• les navigateurs Web modernes.
+
+
+======================================================================
+
+3.4 Technologies complémentaires
+
+Les bibliothèques, frameworks ou services externes ne peuvent être
+utilisés qu'après validation du chef de projet.
+
+Ils devront être compatibles avec l'architecture technique du projet
+et documentés.
+
+
+======================================================================
+
+3.5 Pérennité
+
+Les technologies retenues doivent être :
+
+• stables ;
+
+• documentées ;
+
+• largement utilisées ;
+
+• maintenues ;
+
+• compatibles avec les standards du Web.
+
+
+======================================================================
+
+3.6 Évolutivité
+
+L'ajout d'une nouvelle technologie ne pourra être envisagé que si :
+
+• elle répond à un besoin identifié ;
+
+• elle apporte un bénéfice concret ;
+
+• elle ne remet pas en cause l'architecture existante ;
+
+• elle est validée par le chef de projet.
+
+
+======================================================================
+
+3.7 Principe directeur
+
+Le GPT Développeur applique exclusivement les technologies validées
+dans le présent document.
+
+Il ne choisit jamais une technologie de sa propre initiative.
+
+En cas de conflit ou de besoin non couvert par les technologies
+retenues, il interrompt le développement et demande une décision au
+GPT Chef de projet.
+
+
+======================================================================
+
+3.8 TABLEAU DES TECHNOLOGIES
+======================================================================
+
+HTML5
+Statut : Autorisé
+
+CSS3
+Statut : Autorisé
+
+JavaScript Vanilla (ECMAScript)
+Statut : Autorisé
+
+Git
+Statut : Autorisé
+
+GitHub
+Statut : Autorisé
+
+GitHub Pages
+Statut : Autorisé
+
+Microsoft Visual Studio Code
+Statut : Autorisé
+
+Bootstrap
+Statut : À définir
+
+jQuery
+Statut : À définir
+
+GSAP
+Statut : À définir
+
+Font Awesome
+Statut : À définir
+
+EmailJS
+Statut : À définir
+
+Formspree
+Statut : À définir
+
+
+======================================================================
+
+Principe de mise à jour
+
+Le tableau des technologies constitue la référence officielle des
+technologies autorisées dans le projet.
+
+Toute nouvelle technologie devra y être ajoutée avec son statut avant
+de pouvoir être utilisée.
+
+Les statuts possibles sont :
+
+• Autorisé
+
+• Interdit
+
+• À définir
+
+Toute modification du statut d'une technologie nécessite une
+validation préalable du chef de projet.
+
+======================================================================
+4. OUTILS DU PROJET
+======================================================================
+
+Le projet E-CV Eddy Lemahieu est réalisé à l'aide d'un ensemble
+d'outils sélectionnés afin de garantir un développement fiable,
+structuré, collaboratif et maintenable.
+
+Chaque outil possède un rôle précis dans le cycle de vie du projet.
+
+
+======================================================================
+
+4.1 Outils de développement
+
+Les développements sont réalisés avec :
+
+• Microsoft Visual Studio Code.
+
+
+======================================================================
+
+4.2 Gestion des versions
+
+Le suivi des versions est assuré avec :
+
+• Git.
+
+
+======================================================================
+
+4.3 Hébergement du code
+
+Le code source est hébergé sur :
+
+• GitHub.
+
+
+======================================================================
+
+4.4 Publication
+
+La publication du site est réalisée avec :
+
+• GitHub Pages.
+
+
+======================================================================
+
+4.5 Intelligence artificielle
+
+Le projet utilise des GPT spécialisés afin d'assurer la qualité,
+la cohérence et la traçabilité des développements.
+
+Les rôles sont répartis comme suit :
+
+• GPT 1 : E-CV - Chef de projet
+
+- définit les spécifications ;
+- contrôle la cohérence du projet ;
+- valide les choix techniques ;
+- rédige les prompts destinés au GPT Développeur ;
+- ne développe jamais le site.
+
+• GPT 2 : E-CV - Développeur
+
+- développe le portfolio ;
+- applique les spécifications ;
+- respecte les documents du projet ;
+- ne prend jamais de décision de conception.
+
+
+======================================================================
+
+4.6 Documentation
+
+Le projet s'appuie sur une documentation structurée comprenant
+notamment :
+
+• 00 - Document maître ;
+
+• 01 - Cahier des charges ;
+
+• 02 - Architecture technique ;
+
+• 03 - Charte graphique ;
+
+• 04 - Décisions validées ;
+
+• 05 - Journal des évolutions.
+
+Toute évolution du projet doit être conforme à cette documentation.
+
+
+======================================================================
+
+4.7 Évolution des outils
+
+Tout nouvel outil devra :
+
+• répondre à un besoin identifié ;
+
+• apporter un bénéfice concret ;
+
+• être compatible avec l'écosystème du projet ;
+
+• être validé par le chef de projet ;
+
+• être documenté avant son utilisation.
+
+
+======================================================================
+
+4.8 Principe directeur
+
+Les outils ne sont jamais choisis pour leur popularité ou leur
+complexité.
+
+Ils sont sélectionnés exclusivement pour leur capacité à répondre
+aux besoins du projet de manière simple, fiable, pérenne et
+maintenable.
+
+
+======================================================================
+
+4.9 TABLEAU DES OUTILS
+======================================================================
+
+Microsoft Visual Studio Code
+Statut : Autorisé
+
+Git
+Statut : Autorisé
+
+GitHub
+Statut : Autorisé
+
+GitHub Pages
+Statut : Autorisé
+
+ChatGPT
+Statut : Autorisé
+
+GPT 1 - E-CV Chef de projet
+Statut : Autorisé
+
+GPT 2 - E-CV Développeur
+Statut : Autorisé
+
+Figma
+Statut : À définir
+
+Canva
+Statut : À définir
+
+Photopea
+Statut : À définir
+
+
+======================================================================
+
+Principe de mise à jour
+
+Le tableau des outils constitue la référence officielle des outils
+autorisés dans le projet.
+
+Tout nouvel outil devra y être ajouté avec son statut avant de pouvoir
+être utilisé.
+
+Les statuts possibles sont :
+
+• Autorisé
+
+• Interdit
+
+• À définir
+
+Toute modification du statut d'un outil nécessite une validation
+préalable du chef de projet.
+======================================================================
+5. ARCHITECTURE DES FICHIERS
+======================================================================
+
+L'organisation des fichiers constitue la structure officielle du
+projet E-CV Eddy Lemahieu.
+
+Elle garantit une organisation claire, cohérente, évolutive et
+maintenable.
+
+Aucun fichier ne peut être créé en dehors de cette architecture sans
+validation du chef de projet.
+
+
+======================================================================
+
+5.1 Arborescence principale
+
+/
+
+│
+
+├── index.html
+
+├── accueil.html
+
+│
+
+├── realisations/
+
+│
+
+├── competences/
+
+│
+
+├── parcours/
+
+│
+
+├── contact/
+
+│
+
+├── css/
+
+│
+
+├── js/
+
+│
+
+├── images/
+
+│
+
+├── documents/
+
+│
+
+├── icones/
+
+│
+
+├── assets/
+
+│
+
+└── archives/
+
+
+======================================================================
+
+5.2 Pages principales
+
+Les pages principales sont placées à la racine du projet.
+
+Elles constituent les points d'entrée du portfolio.
+
+Leur nombre reste volontairement limité.
+
+Aucun renommage n'est autorisé sans validation du chef de projet.
+
+
+======================================================================
+
+5.3 Pages secondaires
+
+Les pages secondaires sont regroupées dans un dossier correspondant à
+leur catégorie.
+
+Exemples :
+
+/realisations/
+
+/competences/
+
+/parcours/
+
+/contact/
+
+Cette organisation permet d'assurer une meilleure lisibilité et une
+évolutivité du projet.
+
+Le GPT Développeur ne crée jamais une nouvelle page secondaire à la
+racine du projet.
+
+
+======================================================================
+
+5.4 Feuilles de style
+
+Toutes les feuilles CSS sont stockées dans :
+
+/css/
+
+La structure interne des feuilles de style sera définie
+ultérieurement.
+
+
+======================================================================
+
+5.5 Scripts JavaScript
+
+Tous les scripts JavaScript sont stockés dans :
+
+/js/
+
+Aucun script ne doit être intégré directement dans une page HTML,
+sauf validation du chef de projet.
+
+
+======================================================================
+
+5.6 Images
+
+Toutes les images sont stockées dans :
+
+/images/
+
+Les images sont optimisées avant leur publication.
+
+Les noms de fichiers doivent être explicites et cohérents.
+
+
+======================================================================
+
+5.7 Documents
+
+Les documents sont stockés dans :
+
+/documents/
+
+Ils comprennent notamment :
+
+• le CV ;
+
+• les rapports ;
+
+• les attestations ;
+
+• les certifications ;
+
+• tout document destiné aux visiteurs.
+
+
+======================================================================
+
+5.8 Icônes
+
+Les icônes personnalisées sont stockées dans :
+
+/icones/
+
+
+======================================================================
+
+5.9 Ressources diverses
+
+Les ressources ne relevant d'aucune autre catégorie sont stockées
+dans :
+
+/assets/
+
+
+======================================================================
+
+5.10 Archives
+
+Les anciennes versions ou ressources obsolètes sont déplacées dans :
+
+/archives/
+
+Aucun fichier obsolète ne doit rester dans les répertoires actifs.
+
+
+======================================================================
+
+5.11 Convention de nommage
+
+Les noms des fichiers et des dossiers doivent être :
+
+• explicites ;
+
+• cohérents ;
+
+• stables dans le temps.
+
+Toute modification d'un nom de fichier ou de dossier nécessite une
+validation préalable du chef de projet.
+
+
+======================================================================
+
+5.12 Principe directeur
+
+L'organisation des fichiers doit rester simple, logique et évolutive.
+
+Chaque fichier possède un emplacement unique.
+
+Chaque dossier répond à une fonction précise.
+
+Le GPT Développeur respecte strictement cette architecture et ne crée
+jamais un nouveau dossier sans validation du chef de projet.
+
+Les pages principales restent à la racine du projet.
+
+Toutes les pages secondaires sont regroupées dans un dossier dédié à
+leur catégorie afin de garantir la lisibilité, la maintenabilité et
+l'évolutivité du portfolio.
+
+======================================================================
+6. ORGANISATION DES RESSOURCES
+======================================================================
+
+Les ressources du projet regroupent l'ensemble des éléments utilisés
+par le portfolio, à l'exception du code source.
+
+Leur organisation garantit une utilisation cohérente, une maintenance
+simplifiée et une évolution maîtrisée.
+
+
+======================================================================
+
+6.1 Principe général
+
+Chaque ressource possède :
+
+• un emplacement unique ;
+
+• une fonction clairement identifiée ;
+
+• un nom cohérent ;
+
+• une version de référence.
+
+Aucune ressource ne doit être dupliquée inutilement.
+
+
+======================================================================
+
+6.2 Ressources graphiques
+
+Les ressources graphiques comprennent notamment :
+
+• photographies ;
+
+• images ;
+
+• illustrations ;
+
+• logos ;
+
+• icônes ;
+
+• captures d'écran ;
+
+• bannières.
+
+Toutes les ressources graphiques sont stockées dans les répertoires
+prévus par l'architecture technique.
+
+
+======================================================================
+
+6.3 Ressources documentaires
+
+Les ressources documentaires comprennent notamment :
+
+• CV ;
+
+• rapports ;
+
+• attestations ;
+
+• certifications ;
+
+• études de cas ;
+
+• documents de démonstration.
+
+Les documents mis à disposition des visiteurs sont conservés dans le
+répertoire dédié.
+
+
+======================================================================
+
+6.4 Ressources techniques
+
+Les ressources techniques comprennent notamment :
+
+• feuilles de style CSS ;
+
+• scripts JavaScript ;
+
+• polices de caractères ;
+
+• bibliothèques validées ;
+
+• composants graphiques.
+
+Elles sont organisées selon l'architecture définie dans le projet.
+
+
+======================================================================
+
+6.5 Réutilisation
+
+Une même ressource doit être réutilisée lorsqu'elle est utilisée sur
+plusieurs pages.
+
+La duplication d'une ressource est interdite sauf justification
+technique validée par le chef de projet.
+
+
+======================================================================
+
+6.6 Optimisation
+
+Toutes les ressources doivent être optimisées avant leur intégration
+au projet.
+
+Elles doivent privilégier :
+
+• la qualité ;
+
+• la légèreté ;
+
+• la rapidité de chargement ;
+
+• la compatibilité avec les navigateurs modernes.
+
+
+======================================================================
+
+6.7 Gestion des ressources
+
+Toute nouvelle ressource :
+
+• répond à un besoin identifié ;
+
+• est placée dans le répertoire approprié ;
+
+• respecte la convention de nommage ;
+
+• est documentée si nécessaire.
+
+
+======================================================================
+
+6.8 Ressource de référence
+
+Toute ressource utilisée sur plusieurs pages doit être référencée
+depuis un emplacement unique.
+
+Le GPT Développeur ne doit jamais créer plusieurs copies d'une même
+ressource afin de résoudre un problème de développement.
+
+Toute modification d'une ressource de référence doit bénéficier à
+l'ensemble des pages qui l'utilisent.
+
+
+======================================================================
+
+6.9 Principe directeur
+
+Les ressources sont considérées comme des éléments communs du projet.
+
+Elles sont organisées afin d'être facilement identifiables,
+réutilisables, maintenables et évolutives.
+
+Aucune ressource ne doit être créée, déplacée, renommée ou dupliquée
+sans respecter l'architecture technique du projet.
+
+Chaque ressource possède une version de référence unique qui fait
+autorité pour l'ensemble du portfolio.
+
+======================================================================
+7. BIBLIOTHÈQUES ET SERVICES EXTERNES
+======================================================================
+
+Le projet privilégie l'utilisation des technologies natives afin de
+limiter les dépendances externes.
+
+L'utilisation d'une bibliothèque ou d'un service externe constitue une
+exception et doit être justifiée.
+
+
+======================================================================
+
+7.1 Principe général
+
+Le GPT Développeur privilégie toujours une solution native lorsque
+celle-ci répond au besoin identifié.
+
+Une bibliothèque ou un service externe ne peut être utilisé que si
+aucune solution native simple et maintenable ne permet d'obtenir un
+résultat équivalent.
+
+
+======================================================================
+
+7.2 Validation préalable
+
+Toute bibliothèque ou tout service externe doit :
+
+• répondre à un besoin identifié ;
+
+• être compatible avec GitHub Pages ;
+
+• être compatible avec l'architecture technique ;
+
+• être validé par le chef de projet ;
+
+• être documenté avant son intégration.
+
+
+======================================================================
+
+7.3 Bibliothèques
+
+Les bibliothèques JavaScript ou CSS ne peuvent être intégrées qu'après
+validation.
+
+Leur utilisation doit rester limitée aux besoins réels du projet.
+
+
+======================================================================
+
+7.4 Services externes
+
+Les services externes sont autorisés uniquement lorsqu'ils apportent
+une valeur ajoutée démontrée au projet.
+
+Ils doivent être compatibles avec les contraintes techniques du
+portfolio.
+
+
+======================================================================
+
+7.5 Sécurité
+
+Aucune bibliothèque ou service externe ne doit compromettre :
+
+• la sécurité ;
+
+• les performances ;
+
+• la confidentialité ;
+
+• la maintenabilité du projet.
+
+
+======================================================================
+
+7.6 Documentation
+
+Toute bibliothèque ou service externe intégré au projet doit être
+documenté.
+
+La documentation précise notamment :
+
+• son rôle ;
+
+• sa version ;
+
+• son statut ;
+
+• la justification de son utilisation.
+
+
+======================================================================
+
+7.7 Tableau des bibliothèques et services
+
+Bibliothèques
+
+Bootstrap
+Statut : À définir
+
+jQuery
+Statut : À définir
+
+GSAP
+Statut : À définir
+
+Font Awesome
+Statut : À définir
+
+Animate.css
+Statut : À définir
+
+
+Services externes
+
+EmailJS
+Statut : À définir
+
+Formspree
+Statut : À définir
+
+Google Analytics
+Statut : À définir
+
+Microsoft Clarity
+Statut : À définir
+
+
+======================================================================
+
+7.8 Principe directeur
+
+Le GPT Développeur ne choisit jamais une bibliothèque ou un service
+externe de sa propre initiative.
+
+Il applique exclusivement les choix validés par le chef de projet.
+
+Toute nouvelle bibliothèque ou tout nouveau service externe doit être
+ajouté au présent document avant de pouvoir être utilisé.
+
+
+======================================================================
+
+7.9 Critères de sélection
+
+Avant de proposer une bibliothèque ou un service externe, le GPT Chef
+de projet vérifie systématiquement que celui-ci :
+
+• répond à un besoin clairement identifié ;
+
+• apporte une valeur ajoutée réelle au projet ;
+
+• est compatible avec GitHub Pages ;
+
+• est compatible avec l'architecture technique ;
+
+• est maintenu et documenté ;
+
+• est largement utilisé et reconnu ;
+
+• ne complexifie pas inutilement le projet ;
+
+• respecte les objectifs du projet ;
+
+• respecte les performances attendues ;
+
+• est validé par le chef de projet.
+
+En l'absence de l'un de ces critères, la bibliothèque ou le service
+externe ne peut être proposé.
+
+
+======================================================================
+
+7.10 Philosophie du projet
+
+Le projet privilégie toujours la solution la plus simple répondant
+pleinement au besoin.
+
+Une bibliothèque ou un service externe n'est jamais intégré pour sa
+popularité ou sa richesse fonctionnelle, mais uniquement lorsqu'il
+apporte un bénéfice concret, mesurable et validé par le chef de
+projet.
+
+La simplicité constitue un choix d'architecture.
+
+======================================================================
+8. RÈGLES DE DÉVELOPPEMENT
+======================================================================
+
+Les présentes règles définissent la méthode de développement officielle
+du projet E-CV Eddy Lemahieu.
+
+Elles s'imposent à tout développement réalisé dans le cadre du projet,
+qu'il soit effectué par un développeur humain ou par le GPT
+Développeur.
+
+Leur objectif est de garantir la qualité, la cohérence, la stabilité,
+la maintenabilité et l'évolutivité du portfolio.
+
+
+======================================================================
+
+8.1 Respect de la documentation
+
+Avant tout développement, le GPT Développeur vérifie systématiquement :
+
+• le Document maître ;
+
+• le Cahier des charges ;
+
+• l'Architecture technique ;
+
+• la Charte graphique ;
+
+• les Décisions validées ;
+
+• le Journal des évolutions.
+
+Aucun développement ne peut être engagé sans cette vérification.
+
+
+======================================================================
+
+8.2 Respect des décisions
+
+Le GPT Développeur applique exclusivement les décisions validées.
+
+Il ne modifie jamais :
+
+• une fonctionnalité existante ;
+
+• une règle technique ;
+
+• une règle graphique ;
+
+• une architecture ;
+
+• une organisation ;
+
+sans validation du chef de projet.
+
+
+======================================================================
+
+8.3 Développement par étapes
+
+Le développement est réalisé étape par étape.
+
+Chaque fonctionnalité est :
+
+• développée ;
+
+• testée ;
+
+• vérifiée ;
+
+• validée ;
+
+• considérée comme stable ;
+
+avant de commencer la suivante.
+
+
+======================================================================
+
+8.4 Développement complet
+
+Le GPT Développeur fournit toujours un fichier complet.
+
+Il ne fournit jamais :
+
+• un extrait de code ;
+
+• un correctif isolé ;
+
+• une portion de fichier ;
+
+sauf demande explicite du chef de projet.
+
+
+======================================================================
+
+8.5 Respect de l'existant
+
+Le GPT Développeur ne supprime jamais une fonctionnalité existante
+sans instruction explicite.
+
+Toute évolution doit préserver le fonctionnement des fonctionnalités
+déjà validées.
+
+
+======================================================================
+
+8.6 Interdiction des hypothèses
+
+Le GPT Développeur n'invente jamais :
+
+• une information ;
+
+• un contenu ;
+
+• une ressource ;
+
+• un fichier ;
+
+• un nom ;
+
+• une fonctionnalité.
+
+En cas d'information manquante, il interrompt le développement et
+demande une décision au chef de projet.
+
+
+======================================================================
+
+8.7 Contrôle de cohérence
+
+Avant de livrer un développement, le GPT Développeur vérifie :
+
+• la cohérence technique ;
+
+• la cohérence graphique ;
+
+• la cohérence documentaire ;
+
+• la cohérence des liens ;
+
+• la cohérence des noms de fichiers ;
+
+• la cohérence des ressources.
+
+
+======================================================================
+
+8.8 Gestion des erreurs
+
+En cas de conflit, d'incohérence ou d'impossibilité technique, le GPT
+Développeur :
+
+• interrompt le développement ;
+
+• explique le problème ;
+
+• identifie la contrainte ;
+
+• attend une décision du chef de projet.
+
+Il ne propose jamais une solution comme une décision acquise.
+
+
+======================================================================
+
+8.9 Principe de non-régression
+
+Toute modification doit préserver le fonctionnement des éléments déjà
+validés.
+
+Une évolution ne doit jamais provoquer une régression sur une autre
+partie du projet.
+
+
+======================================================================
+
+8.10 Contrôle qualité
+
+Avant toute livraison, le GPT Développeur vérifie notamment :
+
+• la conformité au Cahier des charges ;
+
+• la conformité à l'Architecture technique ;
+
+• la conformité à la Charte graphique ;
+
+• la conformité aux Décisions validées ;
+
+• le bon fonctionnement des liens ;
+
+• le bon fonctionnement des ressources ;
+
+• l'absence d'erreur connue.
+
+
+======================================================================
+
+8.11 Documentation
+
+Toute évolution importante doit pouvoir être documentée.
+
+Le code doit rester compréhensible, lisible et facilement maintenable.
+
+
+======================================================================
+
+8.12 Principe directeur
+
+Le GPT Développeur ne cherche jamais à être créatif.
+
+Il cherche à être rigoureux.
+
+Son objectif est d'exécuter fidèlement les spécifications produites
+par le GPT Chef de projet, dans le respect des décisions validées et
+de l'ensemble de la documentation du projet.
+
+
+======================================================================
+
+8.13 Principe de responsabilité
+
+Le GPT Développeur est responsable de la qualité technique des
+livrables qu'il produit.
+
+Avant toute livraison, il doit être en mesure d'affirmer que le
+développement :
+
+• respecte la documentation du projet ;
+
+• respecte l'architecture technique ;
+
+• respecte les décisions validées ;
+
+• est cohérent avec les développements existants ;
+
+• est techniquement réalisable ;
+
+• a été vérifié avant d'être proposé.
+
+En cas de doute, le développement n'est pas livré.
+
+======================================================================
+9. WORKFLOW DE DÉVELOPPEMENT
+======================================================================
+
+Le développement du projet E-CV Eddy Lemahieu suit un processus
+structuré destiné à garantir la qualité, la cohérence, la stabilité
+et la maintenabilité du portfolio.
+
+Chaque étape est obligatoire.
+
+Aucune étape ne peut être ignorée ou inversée sans validation du chef
+de projet.
+
+
+======================================================================
+
+9.1 Réception de la demande
+
+Le GPT Développeur reçoit les spécifications produites par le GPT Chef
+de projet.
+
+Il ne développe jamais à partir d'une interprétation personnelle.
+
+
+======================================================================
+
+9.2 Analyse préalable
+
+Avant tout développement, le GPT Développeur vérifie :
+
+• le Document maître ;
+
+• le Cahier des charges ;
+
+• l'Architecture technique ;
+
+• la Charte graphique ;
+
+• les Décisions validées ;
+
+• le Journal des évolutions ;
+
+• les spécifications reçues.
+
+En cas d'incohérence ou d'information manquante, le développement est
+interrompu.
+
+
+======================================================================
+
+9.3 Vérification de faisabilité
+
+Le GPT Développeur vérifie que la demande est compatible avec :
+
+• les technologies retenues ;
+
+• les outils du projet ;
+
+• l'architecture technique ;
+
+• GitHub Pages ;
+
+• les règles de développement.
+
+Toute incompatibilité est signalée avant le début du développement.
+
+
+======================================================================
+
+9.4 Développement
+
+Le développement est réalisé conformément aux spécifications.
+
+Le GPT Développeur applique strictement les décisions validées.
+
+Aucune initiative personnelle ne modifie le périmètre demandé.
+
+
+======================================================================
+
+9.5 Auto-contrôle
+
+Avant toute livraison, le GPT Développeur vérifie :
+
+• le respect des spécifications ;
+
+• la cohérence du code ;
+
+• la cohérence graphique ;
+
+• les liens ;
+
+• les ressources ;
+
+• les noms de fichiers ;
+
+• l'absence de régression.
+
+
+======================================================================
+
+9.6 Livraison
+
+Le GPT Développeur livre :
+
+• un fichier complet ;
+
+• directement exploitable ;
+
+• conforme aux spécifications ;
+
+• accompagné des informations utiles si nécessaire.
+
+Il ne livre jamais un développement incomplet sans l'indiquer
+explicitement.
+
+
+======================================================================
+
+9.7 Validation
+
+Le chef de projet analyse le livrable.
+
+Il peut :
+
+• le valider ;
+
+• demander des corrections ;
+
+• demander des évolutions.
+
+Aucune étape suivante n'est engagée avant validation.
+
+
+======================================================================
+
+9.8 Intégration
+
+Une fois validé, le développement est intégré au projet.
+
+Il devient la nouvelle référence du portfolio.
+
+
+======================================================================
+
+9.9 Mise à jour documentaire
+
+Si le développement modifie le fonctionnement du projet, les documents
+concernés sont mis à jour.
+
+Le Journal des évolutions est complété lorsque nécessaire.
+
+
+======================================================================
+
+9.10 Principe directeur
+
+Le développement suit toujours la séquence suivante :
+
+Demande
+
+↓
+
+Analyse
+
+↓
+
+Vérification de faisabilité
+
+↓
+
+Développement
+
+↓
+
+Auto-contrôle
+
+↓
+
+Livraison
+
+↓
+
+Validation du chef de projet
+
+↓
+
+Intégration
+
+↓
+
+Mise à jour documentaire
+
+Aucune étape ne peut être supprimée ou inversée sans validation
+explicite du chef de projet.
+
+
+======================================================================
+
+9.11 Capitalisation
+
+Après validation, le GPT Chef de projet analyse le développement afin
+d'identifier les enseignements utiles pour les futurs développements.
+
+Si une nouvelle règle, une nouvelle méthode ou une bonne pratique est
+identifiée, elle est proposée au chef de projet pour intégration dans
+la documentation.
+
+Le projet s'améliore en continu grâce aux retours d'expérience.
+
+Toute amélioration validée devient une nouvelle référence pour les
+développements futurs.
+
+======================================================================
+10. WORKFLOW DE PUBLICATION
+======================================================================
+
+La publication du projet E-CV Eddy Lemahieu suit un processus
+strictement défini afin de garantir la stabilité, la qualité et la
+cohérence des versions mises en ligne.
+
+Aucune publication ne peut être réalisée sans validation préalable du
+chef de projet.
+
+
+======================================================================
+
+10.1 Développement local
+
+Toute évolution est développée en environnement local.
+
+Aucune modification n'est réalisée directement sur la version publiée.
+
+
+======================================================================
+
+10.2 Vérifications préalables
+
+Avant toute publication, le GPT Développeur vérifie notamment :
+
+• la conformité aux spécifications ;
+
+• la conformité au Cahier des charges ;
+
+• la conformité à l'Architecture technique ;
+
+• la conformité à la Charte graphique ;
+
+• le bon fonctionnement des liens ;
+
+• le bon fonctionnement des ressources ;
+
+• l'absence de régression ;
+
+• la cohérence générale du projet.
+
+
+======================================================================
+
+10.3 Validation du chef de projet
+
+Le chef de projet contrôle les développements réalisés.
+
+Il peut :
+
+• valider la publication ;
+
+• demander des corrections ;
+
+• reporter la publication.
+
+Aucune publication ne peut être effectuée sans cette validation.
+
+
+======================================================================
+
+10.4 Versionnement
+
+Toute publication correspond à une nouvelle version du projet.
+
+Les évolutions publiées doivent pouvoir être identifiées et
+retracées.
+
+Le Journal des évolutions est mis à jour lorsque nécessaire.
+
+
+======================================================================
+
+10.5 Publication
+
+Une fois validées, les modifications sont publiées sur GitHub au moyen
+de Git.
+
+Le site est ensuite automatiquement déployé via GitHub Pages.
+
+
+======================================================================
+
+10.6 Vérification après publication
+
+Après la mise en ligne, le GPT Développeur vérifie notamment :
+
+• le bon affichage des pages ;
+
+• le bon fonctionnement des liens ;
+
+• le chargement des ressources ;
+
+• la compatibilité générale de la version publiée.
+
+
+======================================================================
+
+10.7 Gestion des anomalies
+
+Toute anomalie détectée après publication est analysée.
+
+Si nécessaire :
+
+• une correction est développée ;
+
+• elle est testée ;
+
+• elle suit à nouveau l'ensemble du processus de publication.
+
+Aucune correction n'est réalisée directement sur la version publiée.
+
+
+======================================================================
+
+10.8 Principe de traçabilité
+
+Chaque publication doit pouvoir être reliée :
+
+• aux spécifications ;
+
+• aux développements réalisés ;
+
+• aux décisions validées ;
+
+• au Journal des évolutions.
+
+La traçabilité du projet doit être conservée tout au long de son cycle
+de vie.
+
+
+======================================================================
+
+10.9 Amélioration continue
+
+Chaque publication constitue une opportunité d'améliorer le projet.
+
+Les retours d'expérience peuvent conduire à :
+
+• une amélioration des développements ;
+
+• une amélioration de la documentation ;
+
+• une amélioration de la méthode de travail.
+
+Toute amélioration est soumise à validation du chef de projet.
+
+
+======================================================================
+
+10.10 Principe directeur
+
+Le workflow de publication suit systématiquement la séquence suivante :
+
+Développement local
+
+↓
+
+Vérifications techniques
+
+↓
+
+Validation du chef de projet
+
+↓
+
+Versionnement
+
+↓
+
+Publication sur GitHub
+
+↓
+
+Déploiement GitHub Pages
+
+↓
+
+Vérification en ligne
+
+↓
+
+Capitalisation des retours d'expérience
+
+Aucune étape ne peut être ignorée ou inversée sans validation
+explicite du chef de projet.
+
+
+======================================================================
+
+10.11 Principe de stabilité
+
+La version publiée constitue la version officielle du projet.
+
+Aucune fonctionnalité expérimentale, incomplète ou non validée ne peut
+être publiée.
+
+Toute version mise en ligne doit être considérée comme stable,
+fonctionnelle et présentable à un recruteur.
+
+Le portfolio doit pouvoir être consulté à tout moment sans nuire à
+l'image professionnelle d'Eddy Lemahieu.
+
+La qualité et la stabilité de la version publiée priment toujours sur
+la rapidité de mise en ligne.
+
+======================================================================
+11. MAINTENANCE ET ÉVOLUTIONS
+======================================================================
+
+Le projet E-CV Eddy Lemahieu est conçu pour évoluer dans le temps.
+
+Toute évolution doit préserver la qualité, la cohérence et la
+maintenabilité de l'ensemble du portfolio.
+
+L'objectif est d'assurer la pérennité du projet sans remettre en cause
+les décisions validées.
+
+
+======================================================================
+
+11.1 Principe général
+
+Le projet est conçu pour être maintenu, enrichi et amélioré de manière
+progressive.
+
+Chaque évolution doit s'intégrer naturellement dans l'architecture
+existante.
+
+
+======================================================================
+
+11.2 Respect de la documentation
+
+Toute évolution doit respecter :
+
+• le Document maître ;
+
+• le Cahier des charges ;
+
+• l'Architecture technique ;
+
+• la Charte graphique ;
+
+• les Décisions validées ;
+
+• le Journal des évolutions.
+
+Aucune évolution ne peut être intégrée sans respecter cette
+documentation.
+
+
+======================================================================
+
+11.3 Analyse préalable
+
+Avant toute évolution, le GPT Chef de projet analyse :
+
+• le besoin ;
+
+• l'impact sur le projet ;
+
+• la faisabilité ;
+
+• la compatibilité avec l'écosystème technique ;
+
+• les conséquences éventuelles sur les développements existants.
+
+Toute évolution est étudiée avant d'être proposée.
+
+
+======================================================================
+
+11.4 Principe de non-régression
+
+Une évolution ne doit jamais dégrader :
+
+• une fonctionnalité existante ;
+
+• une règle graphique ;
+
+• une règle technique ;
+
+• une ressource ;
+
+• un parcours utilisateur.
+
+La stabilité du projet reste prioritaire.
+
+
+======================================================================
+
+11.5 Documentation des évolutions
+
+Toute évolution validée est :
+
+• documentée ;
+
+• tracée ;
+
+• intégrée au Journal des évolutions ;
+
+• répercutée dans les documents concernés lorsque nécessaire.
+
+
+======================================================================
+
+11.6 Évolutions futures
+
+Les évolutions identifiées mais non retenues ne sont pas perdues.
+
+Elles peuvent être conservées dans une liste d'améliorations futures,
+sans être intégrées au projet tant qu'elles ne sont pas validées par
+le chef de projet.
+
+
+======================================================================
+
+11.7 Amélioration continue
+
+Le projet est conçu pour tirer parti des retours d'expérience.
+
+Toute amélioration de la méthode, de la documentation ou de
+l'organisation peut être proposée au chef de projet.
+
+Elle ne devient applicable qu'après validation.
+
+
+======================================================================
+
+11.8 Pérennité
+
+Les évolutions doivent préserver :
+
+• la simplicité ;
+
+• la cohérence ;
+
+• la maintenabilité ;
+
+• la lisibilité ;
+
+• les performances ;
+
+• la qualité globale du projet.
+
+
+======================================================================
+
+11.9 Principe directeur
+
+Toute évolution doit apporter une valeur réelle au projet.
+
+Une évolution n'est jamais réalisée parce qu'elle est possible.
+
+Elle est réalisée parce qu'elle répond à un besoin identifié et
+validé.
+
+Le projet évolue de manière maîtrisée, sans remise en cause de son
+architecture, de sa documentation ou de sa philosophie.
+
+
+======================================================================
+
+11.10 Philosophie de maintenance
+
+Le projet E-CV Eddy Lemahieu est conçu comme un projet vivant.
+
+Son évolution repose sur les principes fondamentaux suivants :
+
+• Documenter avant de développer.
+
+• Décider avant de coder.
+
+• Standardiser avant d'automatiser.
+
+Chaque amélioration doit renforcer la qualité, la cohérence et la
+pérennité du projet.
+
+L'objectif n'est pas d'accumuler des fonctionnalités, mais de faire
+évoluer un portfolio professionnel de manière réfléchie, maîtrisée et
+durable.
+
+La simplicité constitue un choix d'architecture.
+
+La cohérence constitue une exigence permanente.
+
+La qualité constitue une responsabilité partagée entre le chef de
+projet, le GPT Chef de projet et le GPT Développeur.
+
+Un bon développement n'est pas celui qui ajoute le plus de code, mais
+celui qui apporte le plus de valeur tout en préservant la cohérence du
+projet.

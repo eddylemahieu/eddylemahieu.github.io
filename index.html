@@ -1,174 +1,250 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="[Description du portfolio]">
+    <title>[Titre du portfolio]</title>
 
-<title>Portfolio privé - Eddy Lemahieu</title>
-
-<style>
-
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
-
-body{
-
-    font-family:Calibri,Arial,sans-serif;
-    background:#0f172a;
-    color:white;
-
-    display:flex;
-    justify-content:center;
-    align-items:center;
-
-    height:100vh;
-}
-
-.login{
-
-    width:420px;
-
-    background:#1e293b;
-
-    padding:40px;
-
-    border-radius:20px;
-
-    box-shadow:0 0 30px rgba(0,0,0,.35);
-
-    text-align:center;
-
-}
-
-.logo{
-
-    font-size:70px;
-
-    margin-bottom:20px;
-
-}
-
-h1{
-
-    margin-bottom:10px;
-
-}
-
-p{
-
-    color:#cbd5e1;
-
-    margin-bottom:30px;
-
-}
-
-input{
-
-    width:100%;
-
-    padding:15px;
-
-    border:none;
-
-    border-radius:10px;
-
-    margin-bottom:20px;
-
-    font-size:16px;
-
-}
-
-button{
-
-    width:100%;
-
-    padding:15px;
-
-    border:none;
-
-    border-radius:10px;
-
-    background:#2563eb;
-
-    color:white;
-
-    font-size:18px;
-
-    cursor:pointer;
-
-}
-
-button:hover{
-
-    background:#1d4ed8;
-
-}
-
-#erreur{
-
-    color:#ff6b6b;
-
-    margin-top:20px;
-
-    font-weight:bold;
-
-}
-
-</style>
-
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
 
-<div class="login">
+    <!-- =========================
+         HEADER
+    ========================== -->
+    <header class="site-header">
 
-<div class="logo">🔒</div>
+        <div class="container">
 
-<h1>Portfolio privé</h1>
+            <a href="index.html" class="logo">
+                [Logo]
+            </a>
 
-<p>Eddy Lemahieu</p>
+            <nav class="main-nav" aria-label="Navigation principale">
 
-<input
-id="password"
-type="password"
-placeholder="Mot de passe">
+                <ul>
 
-<button onclick="connexion()">
+                    <li><a href="index.html">Accueil</a></li>
 
-Accéder
+                    <li><a href="parcours/">Parcours</a></li>
 
-</button>
+                    <li><a href="competences/">Compétences</a></li>
 
-<div id="erreur"></div>
+                    <li><a href="realisations/">Réalisations</a></li>
 
-</div>
+                    <li><a href="contact/">Contact</a></li>
 
-<script>
+                </ul>
 
-function connexion(){
+            </nav>
 
-let mdp=document.getElementById("password").value;
+            <button
+                id="menu-toggle"
+                class="menu-toggle"
+                aria-label="Ouvrir le menu">
 
-if(mdp=="Iele5920@@"){
+                ☰
 
-    sessionStorage.setItem("acces","ok");
+            </button>
 
-    location.href="accueil.html";
+        </div>
 
-}
+    </header>
 
-else{
+    <main>
 
-document.getElementById("erreur").innerHTML="Mot de passe incorrect.";
+        <!-- =========================
+             HERO
+        ========================== -->
 
-}
+        <section class="hero">
 
-}
+            <div class="container">
 
-</script>
+                <h1>[Titre principal]</h1>
+
+                <p class="hero-subtitle">
+
+                    [Sous-titre]
+
+                </p>
+
+                <div class="hero-actions">
+
+                    <a href="#" class="btn btn-primary">
+
+                        [Bouton principal]
+
+                    </a>
+
+                    <a href="#" class="btn btn-secondary">
+
+                        [Bouton secondaire]
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- =========================
+             PRESENTATION
+        ========================== -->
+
+        <section class="presentation">
+
+            <div class="container">
+
+                <h2>Présentation</h2>
+
+                <p>
+
+                    [Présentation]
+
+                </p>
+
+            </div>
+
+        </section>
+
+        <!-- =========================
+             COMPETENCES
+        ========================== -->
+
+        <section class="competences">
+
+            <div class="container">
+
+                <h2>Compétences</h2>
+
+                <div class="cards">
+
+                    <article class="card">
+
+                        <h3>[Compétence 1]</h3>
+
+                        <p>[Description]</p>
+
+                    </article>
+
+                    <article class="card">
+
+                        <h3>[Compétence 2]</h3>
+
+                        <p>[Description]</p>
+
+                    </article>
+
+                    <article class="card">
+
+                        <h3>[Compétence 3]</h3>
+
+                        <p>[Description]</p>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- =========================
+             REALISATIONS
+        ========================== -->
+
+        <section class="realisations">
+
+            <div class="container">
+
+                <h2>Réalisations</h2>
+
+                <div class="cards">
+
+                    <article class="card">
+
+                        <img src="images/placeholder.webp"
+                             alt="[Illustration de la réalisation]">
+
+                        <h3>[Réalisation]</h3>
+
+                        <p>[Description]</p>
+
+                    </article>
+
+                    <article class="card">
+
+                        <img src="images/placeholder.webp"
+                             alt="[Illustration de la réalisation]">
+
+                        <h3>[Réalisation]</h3>
+
+                        <p>[Description]</p>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- =========================
+             APPEL A L'ACTION
+        ========================== -->
+
+        <section class="cta">
+
+            <div class="container">
+
+                <h2>
+
+                    [Titre CTA]
+
+                </h2>
+
+                <p>
+
+                    [Texte CTA]
+
+                </p>
+
+                <a href="contact/" class="btn btn-primary">
+
+                    [Bouton CTA]
+
+                </a>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer class="site-footer">
+
+        <div class="container">
+
+            <p>
+
+                © [Année] Eddy Lemahieu
+
+            </p>
+
+        </div>
+
+    </footer>
+
+    <script src="js/main.js"></script>
 
 </body>
 

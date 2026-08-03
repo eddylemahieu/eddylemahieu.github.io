@@ -1,0 +1,193 @@
+======================================================================
+PROJET E-CV EDDY LEMAHIEU
+Document 00 - DOCUMENT MAÎTRE
+Version : 1.0
+Statut : VALIDÉ
+======================================================================
+
+1. IDENTIFICATION DU PROJET
+---------------------------
+
+Nom du projet :
+E-CV Eddy Lemahieu
+
+Version :
+1.0
+
+Chef de projet :
+Eddy Lemahieu
+
+Assistant Chef de projet :
+GPT "E-CV - Chef de projet"
+
+Développeur :
+GPT "E-CV - Développeur"
+
+
+======================================================================
+2. VISION DU PROJET
+======================================================================
+
+Transformer la recherche d'emploi traditionnelle en une stratégie
+d'attraction active, moderne et différenciante.
+
+L'E-CV n'est pas un simple CV numérique.
+
+Il constitue un véritable média professionnel destiné à convaincre,
+démontrer les compétences, valoriser les réalisations, développer une
+image professionnelle forte et inciter les recruteurs à prendre contact.
+
+
+======================================================================
+3. OBJECTIFS STRATÉGIQUES
+======================================================================
+
+• Dépasser les limites du CV papier traditionnel.
+
+• Démontrer les compétences par des preuves concrètes.
+
+• Valoriser les réalisations plutôt que les missions.
+
+• Développer une identité professionnelle forte.
+
+• Maîtriser son image numérique.
+
+• Optimiser sa visibilité sur les moteurs de recherche (SEO).
+
+• Donner envie aux recruteurs de poursuivre leur découverte.
+
+• Inciter les recruteurs à prendre directement contact.
+
+
+======================================================================
+4. PILIERS DU PROJET
+======================================================================
+
+• Vitrine multimédia.
+
+• Storytelling professionnel.
+
+• Démonstration par la preuve.
+
+• Accessibilité sur tous les supports.
+
+• Évolutivité permanente.
+
+• Référencement naturel (SEO).
+
+• Synergie avec LinkedIn et les autres supports professionnels.
+
+
+======================================================================
+5. PRINCIPES FONDAMENTAUX
+======================================================================
+
+• Toute compétence présentée doit pouvoir être démontrée.
+
+• Montrer avant d'expliquer.
+
+• Chaque page doit apporter une valeur nouvelle.
+
+• Éviter toute redondance inutile avec le CV ou LinkedIn.
+
+• Le visiteur doit accéder rapidement aux informations essentielles.
+
+• L'expérience utilisateur doit être simple, fluide et cohérente.
+
+
+======================================================================
+6. APPROCHE RECRUTEUR
+======================================================================
+
+Le projet est entièrement conçu du point de vue du recruteur.
+
+Chaque page doit anticiper les interrogations du recruteur avant même
+qu'il ne les formule.
+
+Avant toute création de contenu, les questions auxquelles la page devra
+répondre devront être clairement identifiées.
+
+Une page qui ne répond à aucune question utile pour un recruteur n'a pas
+vocation à intégrer le projet.
+
+Les principaux objectifs sont notamment de répondre naturellement à des
+questions telles que :
+
+• Qui est Eddy Lemahieu ?
+
+• Que sait-il réellement faire ?
+
+• Quelles preuves apporte-t-il ?
+
+• Quels résultats a-t-il obtenus ?
+
+• Comment travaille-t-il ?
+
+• Quels outils maîtrise-t-il ?
+
+• Quelle valeur apportera-t-il à mon entreprise ?
+
+• Pourquoi est-il différent des autres candidats ?
+
+• Pourquoi devrais-je le contacter ?
+
+
+======================================================================
+7. GOUVERNANCE DU PROJET
+======================================================================
+
+Le chef de projet est l'unique décideur.
+
+Les GPT interviennent exclusivement comme assistants.
+
+Ils proposent, conseillent et développent, sans jamais prendre de
+décision à la place du chef de projet.
+
+Toute décision validée est considérée comme figée jusqu'à décision
+contraire du chef de projet.
+
+Toute évolution devra être documentée dans le Journal des évolutions.
+
+
+======================================================================
+8. DOCUMENTS DE RÉFÉRENCE
+======================================================================
+
+00 - Document maître
+
+01 - Cahier des charges
+
+02 - Architecture technique
+
+03 - Charte graphique
+
+04 - Décisions validées
+
+05 - Journal des évolutions
+
+06 - Arborescence du projet
+
+07 - Bibliothèque des composants
+
+08 - Guide de développement
+
+09 - Procédure de tests
+
+
+======================================================================
+9. PRINCIPE DIRECTEUR DU PROJET
+======================================================================
+
+Chaque décision prise dans le cadre du projet E-CV Eddy Lemahieu doit
+être justifiée par un bénéfice concret pour le recruteur et/ou pour
+l'expérience utilisateur.
+
+Aucune fonctionnalité, contenu, évolution ou choix technique ne sera
+intégré s'il n'apporte pas une valeur réelle, mesurable ou perceptible.
+
+
+======================================================================
+FIN DU DOCUMENT
+======================================================================
+
+

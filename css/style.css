@@ -1,0 +1,460 @@
+/* =====================================================
+   E-CV Eddy Lemahieu
+   style.css
+===================================================== */
+
+/* ==========================
+   VARIABLES
+========================== */
+
+:root {
+
+    --color-primary: #00A4EF;
+    --color-secondary: #F25022;
+    --color-success: #7FBA00;
+    --color-warning: #FFB900;
+
+    --color-dark: #000000;
+    --color-gray: #737373;
+    --color-light: #FFFFFF;
+
+    --max-width: 1200px;
+
+}
+
+/* ==========================
+   RESET
+========================== */
+
+*,
+*::before,
+*::after {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+
+    color: var(--color-dark);
+    background: var(--color-light);
+
+}
+
+/* ==========================
+   IMAGES
+========================== */
+
+img {
+
+    display: block;
+
+    max-width: 100%;
+
+    height: auto;
+
+}
+
+/* ==========================
+   CONTAINER
+========================== */
+
+.container {
+
+    width: 90%;
+    max-width: var(--max-width);
+
+    margin: auto;
+
+}
+
+/* ==========================
+   HEADER
+========================== */
+
+.site-header {
+
+    background: var(--color-light);
+
+    border-bottom: 1px solid #e5e5e5;
+
+    position: sticky;
+    top: 0;
+
+    z-index: 1000;
+
+}
+
+.site-header .container {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 20px 0;
+
+}
+
+.logo {
+
+    font-size: 1.5rem;
+
+    font-weight: bold;
+
+    color: var(--color-primary);
+
+    text-decoration: none;
+
+}
+
+/* ==========================
+   NAVIGATION
+========================== */
+
+.main-nav ul {
+
+    display: flex;
+
+    list-style: none;
+
+    gap: 30px;
+
+}
+
+.main-nav a {
+
+    text-decoration: none;
+
+    color: var(--color-dark);
+
+    font-weight: 600;
+
+    transition: color .3s ease;
+
+}
+
+.main-nav a:hover {
+
+    color: var(--color-primary);
+
+}
+
+.menu-toggle {
+
+    display: none;
+
+    background: none;
+
+    border: none;
+
+    cursor: pointer;
+
+    font-size: 2rem;
+
+}
+
+/* ==========================
+   HERO
+========================== */
+
+.hero {
+
+    padding: 100px 0;
+
+    text-align: center;
+
+    background: #f8f8f8;
+
+}
+
+.hero h1 {
+
+    font-size: 3rem;
+
+    margin-bottom: 20px;
+
+}
+
+.hero-subtitle {
+
+    font-size: 1.2rem;
+
+    color: var(--color-gray);
+
+    max-width: 800px;
+
+    margin: auto;
+
+}
+
+/* ==========================
+   BOUTONS
+========================== */
+
+.hero-actions {
+
+    margin-top: 40px;
+
+    display: flex;
+
+    justify-content: center;
+
+    gap: 20px;
+
+    flex-wrap: wrap;
+
+}
+
+.btn {
+
+    display: inline-block;
+
+    padding: 15px 30px;
+
+    border-radius: 5px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+    transition: all .3s ease;
+
+}
+
+.btn-primary {
+
+    background: var(--color-secondary);
+
+    color: var(--color-light);
+
+}
+
+.btn-primary:hover {
+
+    background: #d94618;
+
+}
+
+.btn-secondary {
+
+    background: var(--color-primary);
+
+    color: var(--color-light);
+
+}
+
+.btn-secondary:hover {
+
+    background: #0088c6;
+
+}
+
+/* ==========================
+   SECTIONS
+========================== */
+
+section {
+
+    padding: 80px 0;
+
+}
+
+section h2 {
+
+    text-align: center;
+
+    margin-bottom: 50px;
+
+    font-size: 2.2rem;
+
+}
+
+/* ==========================
+   CARTES
+========================== */
+
+.cards {
+
+    display: grid;
+
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+
+    gap: 30px;
+
+}
+
+.card {
+
+    background: var(--color-light);
+
+    border-radius: 10px;
+
+    padding: 30px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,.08);
+
+    transition:
+        transform .3s ease,
+        box-shadow .3s ease;
+
+}
+
+.card:hover {
+
+    transform: translateY(-5px);
+
+    box-shadow: 0 10px 25px rgba(0,0,0,.12);
+
+}
+
+.card img {
+
+    border-radius: 8px;
+
+    margin-bottom: 20px;
+
+}
+
+.card h3 {
+
+    margin-bottom: 15px;
+
+}
+
+.card p {
+
+    color: var(--color-gray);
+
+}
+
+/* ==========================
+   CTA
+========================== */
+
+.cta {
+
+    background: var(--color-primary);
+
+    color: var(--color-light);
+
+    text-align: center;
+
+}
+
+.cta h2 {
+
+    margin-bottom: 20px;
+
+}
+
+.cta p {
+
+    margin-bottom: 30px;
+
+}
+
+.cta .btn-primary {
+
+    background: var(--color-light);
+
+    color: var(--color-primary);
+
+}
+
+.cta .btn-primary:hover {
+
+    background: #f0f0f0;
+
+}
+
+/* ==========================
+   FOOTER
+========================== */
+
+.site-footer {
+
+    background: #111;
+
+    color: var(--color-light);
+
+    text-align: center;
+
+    padding: 40px 0;
+
+}
+
+/* ==========================
+   RESPONSIVE
+========================== */
+
+@media (max-width: 768px) {
+
+    .site-header .container {
+
+        flex-wrap: wrap;
+
+    }
+
+    .menu-toggle {
+
+        display: block;
+
+    }
+
+    .main-nav {
+
+        display: none;
+
+        width: 100%;
+
+        margin-top: 20px;
+
+    }
+
+    .main-nav.active {
+
+        display: block;
+
+    }
+
+    .main-nav ul {
+
+        flex-direction: column;
+
+        gap: 15px;
+
+    }
+
+    .hero {
+
+        padding: 60px 0;
+
+    }
+
+    .hero h1 {
+
+        font-size: 2.2rem;
+
+    }
+
+    section {
+
+        padding: 60px 0;
+
+    }
+
+}

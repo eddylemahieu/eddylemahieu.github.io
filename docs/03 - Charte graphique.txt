@@ -1,0 +1,2271 @@
+======================================================================
+03 - CHARTE GRAPHIQUE
+======================================================================
+
+======================================================================
+1. PRÉSENTATION
+======================================================================
+
+La présente Charte graphique définit l'identité visuelle officielle du
+projet E-CV Eddy Lemahieu.
+
+Son objectif est de garantir une présentation homogène,
+professionnelle et cohérente sur l'ensemble du portfolio.
+
+Elle constitue la référence unique en matière de design, de mise en
+page, de couleurs, de typographie, de composants graphiques et
+d'expérience utilisateur.
+
+Chaque page développée dans le cadre du projet doit respecter cette
+charte afin d'offrir une expérience de navigation fluide, intuitive et
+cohérente.
+
+La Charte graphique contribue directement à renforcer l'image
+professionnelle du candidat, à faciliter la lecture des informations et
+à améliorer l'expérience des recruteurs.
+
+Elle permet également de garantir que toute évolution du portfolio
+s'intègre naturellement au reste du site sans rupture visuelle ou
+fonctionnelle.
+
+L'identité visuelle du portfolio n'a pas pour objectif de démontrer une
+performance artistique ou technique.
+
+Elle est conçue pour mettre en valeur le contenu, guider naturellement
+le recruteur dans sa lecture et favoriser la prise de contact.
+
+Chaque choix graphique doit pouvoir être justifié par un bénéfice
+concret pour l'expérience utilisateur ou pour la compréhension des
+compétences présentées.
+
+La Charte graphique est un document de référence obligatoire.
+
+Toute évolution graphique doit être compatible avec les objectifs du
+projet, respecter les décisions validées par le chef de projet et être
+intégrée à la présente charte avant sa mise en œuvre.
+
+======================================================================
+2. OBJECTIFS GRAPHIQUES
+======================================================================
+
+L'identité graphique du projet E-CV Eddy Lemahieu est conçue pour
+renforcer l'image professionnelle du candidat et faciliter
+l'expérience de consultation du recruteur.
+
+Chaque choix graphique doit contribuer à mettre en valeur le contenu,
+à améliorer la lisibilité et à favoriser la prise de contact.
+
+Le design ne constitue jamais une finalité.
+
+Il est un moyen de valoriser les compétences, les réalisations et le
+parcours professionnel.
+
+
+======================================================================
+
+2.1 Image recherchée
+
+Le portfolio doit transmettre les valeurs suivantes :
+
+• Professionnalisme
+
+Inspirer immédiatement le sérieux, la rigueur et la crédibilité.
+
+• Modernité
+
+Présenter une image actuelle, numérique et tournée vers l'avenir.
+
+• Sobriété
+
+Privilégier un design épuré laissant toute sa place au contenu.
+
+• Dynamisme
+
+Donner une impression d'énergie, d'engagement et d'évolution.
+
+• Rassurance
+
+Créer un climat de confiance grâce à une présentation claire,
+structurée et cohérente.
+
+• Accessibilité
+
+Permettre une lecture simple, rapide et agréable sur tous les
+supports.
+
+• Cohérence
+
+Offrir une identité visuelle homogène sur l'ensemble des pages du
+portfolio.
+
+
+======================================================================
+
+2.2 Objectifs d'expérience utilisateur
+
+L'expérience graphique doit permettre au visiteur de :
+
+• identifier immédiatement l'identité professionnelle du candidat ;
+
+• comprendre rapidement les compétences mises en avant ;
+
+• accéder facilement aux informations recherchées ;
+
+• naviguer de manière fluide entre les différentes pages ;
+
+• consulter le portfolio sans effort d'apprentissage.
+
+
+======================================================================
+
+2.3 Objectifs de communication
+
+L'identité graphique doit contribuer à :
+
+• valoriser les réalisations par la preuve ;
+
+• renforcer la crédibilité du candidat ;
+
+• différencier le portfolio d'un CV traditionnel ;
+
+• prolonger naturellement le profil LinkedIn et les autres supports
+  professionnels ;
+
+• donner envie au recruteur de poursuivre sa découverte du portfolio.
+
+
+======================================================================
+
+2.4 Principe directeur
+
+Le graphisme est toujours au service du contenu.
+
+Chaque élément visuel doit améliorer la compréhension, guider la
+navigation ou renforcer l'image professionnelle du candidat.
+
+Tout choix graphique doit pouvoir être justifié par un bénéfice concret
+pour le recruteur ou pour l'expérience utilisateur.
+
+Le recruteur ne doit jamais admirer le design ; il doit retenir le
+candidat.
+
+======================================================================
+3. IDENTITÉ VISUELLE
+======================================================================
+
+L'identité visuelle du projet E-CV Eddy Lemahieu traduit la personnalité
+professionnelle du candidat.
+
+Elle reflète une image moderne, organisée, rigoureuse et accessible,
+en cohérence avec les valeurs et les compétences présentées dans le
+portfolio.
+
+L'ensemble des choix graphiques contribue à créer une expérience de
+consultation fluide, rassurante et professionnelle.
+
+
+======================================================================
+
+3.1 Inspiration graphique
+
+L'identité visuelle s'inspire principalement de l'univers Microsoft.
+
+Cette inspiration se traduit notamment par :
+
+• un design épuré ;
+
+• une organisation claire de l'information ;
+
+• une hiérarchie visuelle marquée ;
+
+• une navigation intuitive ;
+
+• une utilisation maîtrisée de la couleur ;
+
+• des composants sobres et modernes ;
+
+• une forte lisibilité.
+
+
+======================================================================
+
+3.2 Personnalité du portfolio
+
+Le portfolio doit être perçu comme :
+
+• professionnel ;
+
+• moderne ;
+
+• élégant sans ostentation ;
+
+• structuré ;
+
+• dynamique ;
+
+• rassurant ;
+
+• innovant ;
+
+• crédible.
+
+
+======================================================================
+
+3.3 Philosophie graphique
+
+Le design privilégie :
+
+• la simplicité ;
+
+• les espaces de respiration ;
+
+• la lisibilité ;
+
+• la clarté de l'information ;
+
+• la mise en valeur des réalisations ;
+
+• une navigation naturelle.
+
+Chaque élément graphique possède une fonction.
+
+Aucun élément décoratif ne doit détourner l'attention du contenu.
+
+
+======================================================================
+
+3.4 Identité numérique
+
+Le portfolio constitue le prolongement naturel de l'identité
+professionnelle d'Eddy Lemahieu.
+
+L'ensemble des pages doit donner l'image :
+
+• d'un professionnel organisé ;
+
+• maîtrisant les outils numériques ;
+
+• capable de structurer l'information ;
+
+• attentif à la qualité des détails ;
+
+• orienté résultats ;
+
+• capable de démontrer ses compétences.
+
+
+======================================================================
+
+3.5 Signature visuelle
+
+Le portfolio doit être immédiatement identifiable grâce à :
+
+• une palette de couleurs cohérente ;
+
+• une typographie homogène ;
+
+• des composants graphiques réutilisés ;
+
+• une mise en page constante ;
+
+• une navigation identique sur toutes les pages.
+
+Aucune page ne doit donner l'impression d'appartenir à un autre site.
+
+
+======================================================================
+
+3.6 Principe directeur
+
+L'identité visuelle ne cherche jamais à impressionner.
+
+Elle cherche à inspirer confiance.
+
+Le design doit valoriser les compétences du candidat et accompagner
+naturellement le recruteur dans sa découverte du portfolio.
+
+
+======================================================================
+
+3.7 Cohérence entre l'identité visuelle et le candidat
+
+L'identité visuelle du portfolio doit refléter fidèlement la
+personnalité professionnelle d'Eddy Lemahieu.
+
+Le design doit être en adéquation avec les compétences, les méthodes de
+travail et les valeurs présentées dans le portfolio.
+
+Chaque choix graphique doit renforcer la crédibilité du candidat et
+illustrer sa capacité à produire un travail organisé, rigoureux,
+structuré et de qualité.
+
+L'identité visuelle constitue une démonstration implicite des
+compétences professionnelles du candidat.
+
+Le portfolio ne se contente pas de présenter les compétences du
+candidat ; il les démontre également par sa conception, son
+organisation et son niveau de qualité.
+
+======================================================================
+4. PALETTE DE COULEURS
+======================================================================
+
+La palette de couleurs du projet E-CV Eddy Lemahieu s'inspire
+directement de l'identité visuelle de Microsoft.
+
+Elle constitue l'identité graphique officielle du portfolio.
+
+Aucune autre couleur principale ne peut être utilisée sans validation
+du chef de projet.
+
+Chaque couleur possède une fonction précise afin de garantir une
+cohérence visuelle sur l'ensemble du site.
+
+
+======================================================================
+
+4.1 Couleurs principales
+
+Orange Office
+
+Code hexadécimal : #F25022
+
+Utilisation :
+
+• boutons d'action principaux ;
+
+• appels à l'action (CTA) ;
+
+• mises en avant ;
+
+• accents graphiques.
+
+
+--------------------------------------------------------------------
+
+Bleu Windows
+
+Code hexadécimal : #00A4EF
+
+Utilisation :
+
+• navigation ;
+
+• liens ;
+
+• éléments interactifs ;
+
+• informations principales.
+
+
+--------------------------------------------------------------------
+
+Vert Microsoft
+
+Code hexadécimal : #7FBA00
+
+Utilisation :
+
+• validations ;
+
+• réussites ;
+
+• compétences acquises ;
+
+• indicateurs positifs.
+
+
+--------------------------------------------------------------------
+
+Jaune Microsoft
+
+Code hexadécimal : #FFB900
+
+Utilisation :
+
+• informations importantes ;
+
+• mises en évidence ;
+
+• alertes non bloquantes ;
+
+• éléments d'accompagnement.
+
+
+--------------------------------------------------------------------
+
+Gris neutre
+
+Code hexadécimal : #737373
+
+Utilisation :
+
+• textes secondaires ;
+
+• séparateurs ;
+
+• icônes ;
+
+• informations complémentaires.
+
+
+======================================================================
+
+4.2 Couleurs complémentaires
+
+Blanc
+
+Code hexadécimal : #FFFFFF
+
+Utilisation :
+
+• arrière-plan principal ;
+
+• espaces de respiration ;
+
+• mise en valeur du contenu.
+
+
+--------------------------------------------------------------------
+
+Noir
+
+Code hexadécimal : #000000
+
+Utilisation :
+
+• textes principaux ;
+
+• titres ;
+
+• éléments nécessitant une excellente lisibilité.
+
+
+======================================================================
+
+4.3 Règles d'utilisation
+
+Chaque couleur possède un rôle défini.
+
+Les couleurs ne doivent jamais être utilisées de manière aléatoire ou
+uniquement pour des raisons esthétiques.
+
+Leur utilisation doit faciliter :
+
+• la compréhension ;
+
+• la hiérarchisation de l'information ;
+
+• la navigation ;
+
+• l'accessibilité.
+
+
+======================================================================
+
+4.4 Cohérence graphique
+
+Les mêmes couleurs doivent toujours transmettre la même signification.
+
+Par exemple :
+
+• le vert indique un élément positif ;
+
+• l'orange attire l'attention sur une action ;
+
+• le bleu identifie un élément interactif ;
+
+• le jaune met en évidence une information importante.
+
+
+======================================================================
+
+4.5 Principe directeur
+
+La couleur accompagne la lecture.
+
+Elle ne doit jamais distraire le visiteur.
+
+Chaque utilisation d'une couleur doit renforcer la compréhension,
+l'expérience utilisateur et l'identité visuelle du portfolio.
+
+
+======================================================================
+
+4.6 Principe de sobriété
+
+La palette Microsoft constitue l'identité visuelle du projet.
+
+Le nombre de couleurs affichées simultanément sur une même page doit
+rester limité.
+
+Le blanc demeure la couleur dominante afin de préserver la lisibilité,
+les espaces de respiration et la mise en valeur du contenu.
+
+La couleur est utilisée pour guider le regard, jamais pour le saturer.
+
+Mais aussi :
+
+couleurs des boutons ;
+liens ;
+arrière-plans ;
+alertes ;
+succès ;
+erreurs.
+
+======================================================================
+5. TYPOGRAPHIE
+======================================================================
+
+La typographie constitue un élément essentiel de l'identité visuelle du
+portfolio.
+
+Elle contribue à la lisibilité, à la hiérarchisation des informations
+et à l'image professionnelle du projet.
+
+Une typographie homogène est utilisée sur l'ensemble du site.
+
+
+======================================================================
+
+5.1 Police officielle
+
+La police officielle du projet est :
+
+Segoe UI
+
+Police de secours :
+
+Arial
+
+Sans-serif
+
+Aucune autre police ne peut être utilisée sans validation du chef de
+projet.
+
+
+======================================================================
+
+5.2 Principes typographiques
+
+La typographie doit privilégier :
+
+• la lisibilité ;
+
+• la simplicité ;
+
+• une hiérarchie claire ;
+
+• une lecture rapide ;
+
+• une excellente compatibilité sur tous les supports.
+
+
+======================================================================
+
+5.3 Hiérarchie des titres
+
+La hiérarchie HTML est respectée sur l'ensemble du projet.
+
+H1
+
+Titre principal de la page.
+
+Un seul H1 par page.
+
+
+H2
+
+Grandes sections.
+
+
+H3
+
+Sous-sections.
+
+
+H4
+
+Compléments.
+
+
+H5
+
+Informations secondaires.
+
+
+H6
+
+Éléments très spécifiques.
+
+La hiérarchie ne doit jamais être utilisée uniquement pour modifier
+l'apparence du texte.
+
+
+======================================================================
+
+5.4 Graisses de caractères
+
+Les graisses utilisées sont limitées à :
+
+• Normal
+
+• Semi-Gras
+
+• Gras
+
+Les variantes inutiles sont proscrites afin de préserver la cohérence
+visuelle.
+
+
+======================================================================
+
+5.5 Échelle typographique officielle
+
+Les tailles de caractères du projet sont définies comme suit :
+
+H1 : 48 px
+
+H2 : 36 px
+
+H3 : 28 px
+
+H4 : 22 px
+
+H5 : 18 px
+
+H6 : 16 px
+
+Texte courant : 16 px
+
+Petit texte : 14 px
+
+Toute modification de cette échelle nécessite une validation du chef
+de projet.
+
+
+======================================================================
+
+5.6 Mise en valeur
+
+La mise en évidence d'un contenu privilégie :
+
+• le gras ;
+
+• la couleur ;
+
+• les espaces ;
+
+• la hiérarchie visuelle.
+
+Le soulignement est exclusivement réservé aux liens.
+
+L'italique est utilisé avec parcimonie.
+
+
+======================================================================
+
+5.7 Lisibilité
+
+Les textes doivent conserver un excellent contraste avec leur
+arrière-plan.
+
+La longueur des lignes, les espacements et les marges doivent favoriser
+une lecture fluide sur ordinateur, tablette et smartphone.
+
+La typographie doit permettre une lecture confortable quelles que
+soient les dimensions de l'écran.
+
+
+======================================================================
+
+5.8 Principe directeur
+
+La typographie est au service de la lecture.
+
+Elle ne doit jamais attirer l'attention sur elle-même.
+
+Le lecteur doit oublier la police utilisée pour se concentrer sur le
+contenu présenté.
+
+La cohérence typographique participe directement à l'image
+professionnelle du portfolio.
+
+======================================================================
+6. ICONOGRAPHIE
+======================================================================
+
+L'iconographie contribue à améliorer la compréhension des contenus,
+la rapidité de lecture et la navigation.
+
+Les icônes constituent un complément visuel.
+
+Elles ne remplacent jamais un texte ou une information essentielle.
+
+
+======================================================================
+
+6.1 Principe général
+
+Les icônes doivent être :
+
+• simples ;
+
+• modernes ;
+
+• facilement reconnaissables ;
+
+• homogènes ;
+
+• cohérentes avec l'identité visuelle du projet.
+
+Une seule bibliothèque d'icônes est utilisée sur l'ensemble du
+portfolio.
+
+
+======================================================================
+
+6.2 Choix de la bibliothèque
+
+La bibliothèque officielle d'icônes est définie par le chef de projet.
+
+Aucune autre bibliothèque ne peut être utilisée sans validation.
+
+Le choix de la bibliothèque doit respecter les critères définis dans
+l'Architecture technique.
+
+
+======================================================================
+
+6.3 Utilisation
+
+Les icônes peuvent être utilisées notamment pour :
+
+• la navigation ;
+
+• les compétences ;
+
+• les réalisations ;
+
+• les contacts ;
+
+• les téléchargements ;
+
+• les informations complémentaires ;
+
+• les appels à l'action.
+
+
+======================================================================
+
+6.4 Style graphique
+
+Toutes les icônes doivent respecter :
+
+• le même style graphique ;
+
+• la même famille ;
+
+• les mêmes proportions ;
+
+• la même cohérence visuelle.
+
+Le mélange de plusieurs styles d'icônes est interdit.
+
+
+======================================================================
+
+6.5 Taille
+
+Les tailles des icônes doivent être harmonisées.
+
+Une même fonction doit toujours utiliser une icône de dimension
+identique.
+
+Les tailles de référence seront définies dans les styles CSS du
+projet.
+
+
+======================================================================
+
+6.6 Couleurs
+
+Les icônes utilisent exclusivement les couleurs définies dans la
+palette officielle du projet.
+
+La couleur d'une icône doit conserver la même signification sur
+l'ensemble du portfolio.
+
+
+======================================================================
+
+6.7 Accessibilité
+
+Les icônes ne doivent jamais constituer l'unique moyen de transmettre
+une information.
+
+Lorsqu'une information est importante, elle doit toujours être
+accompagnée d'un texte ou d'un libellé explicite.
+
+
+======================================================================
+
+6.8 Principe directeur
+
+Les icônes facilitent la lecture.
+
+Elles accompagnent le contenu.
+
+Elles ne doivent jamais détourner l'attention du visiteur ni remplacer
+les informations essentielles.
+
+
+======================================================================
+
+6.9 Cohérence d'utilisation
+
+Une même action ou une même information doit toujours être représentée
+par la même icône sur l'ensemble du portfolio.
+
+Une icône ne doit jamais changer de signification selon la page.
+
+L'utilisation des icônes participe directement à la cohérence visuelle
+et à l'expérience utilisateur.
+
+======================================================================
+7. IMAGES
+======================================================================
+
+Les images constituent un élément essentiel du portfolio.
+
+Elles permettent d'illustrer les réalisations, de démontrer les
+compétences et d'améliorer la compréhension des contenus.
+
+Chaque image doit apporter une valeur ajoutée au visiteur.
+
+Aucune image n'est utilisée uniquement à des fins décoratives.
+
+
+======================================================================
+
+7.1 Principe général
+
+Chaque image doit :
+
+• illustrer une information ;
+
+• renforcer la compréhension ;
+
+• démontrer une réalisation ;
+
+• respecter l'identité graphique du projet.
+
+
+======================================================================
+
+7.2 Format des fichiers
+
+Le format de référence est :
+
+WebP
+
+Les autres formats ne peuvent être utilisés que lorsqu'une contrainte
+technique le justifie et après validation du chef de projet.
+
+
+======================================================================
+
+7.3 Qualité
+
+Toutes les images doivent présenter :
+
+• une excellente netteté ;
+
+• une résolution adaptée ;
+
+• une compression optimisée ;
+
+• un rendu professionnel.
+
+Aucune image floue, pixellisée ou dégradée ne peut être publiée.
+
+
+======================================================================
+
+7.4 Dimensions
+
+Les dimensions des images doivent être adaptées à leur utilisation.
+
+Une même catégorie d'images doit conserver des dimensions cohérentes
+sur l'ensemble du portfolio.
+
+Les dimensions de référence seront définies dans les styles CSS du
+projet.
+
+
+======================================================================
+
+7.5 Ratio
+
+Chaque catégorie d'image possède un ratio de référence.
+
+Le ratio doit être conservé afin d'éviter toute déformation.
+
+Les recadrages doivent préserver la qualité de lecture de l'image.
+
+
+======================================================================
+
+7.6 Optimisation
+
+Toutes les images doivent être optimisées avant leur intégration.
+
+L'objectif est de :
+
+• réduire le poids des fichiers ;
+
+• accélérer le chargement des pages ;
+
+• préserver la qualité visuelle.
+
+
+======================================================================
+
+7.7 Cohérence visuelle
+
+Les images utilisées dans le portfolio doivent présenter un style
+cohérent.
+
+Les traitements appliqués (recadrage, fond, contraste, luminosité,
+etc.) doivent être homogènes sur l'ensemble du site.
+
+
+======================================================================
+
+7.8 Accessibilité
+
+Chaque image informative doit comporter un texte alternatif (attribut
+ALT) pertinent.
+
+Les images purement décoratives sont identifiées conformément aux
+bonnes pratiques d'accessibilité.
+
+
+======================================================================
+
+7.9 Organisation
+
+Toutes les images sont stockées dans le répertoire prévu par
+l'Architecture technique.
+
+Leur nom respecte la Convention de nommage du projet.
+
+Aucune image ne doit être dupliquée inutilement.
+
+
+======================================================================
+
+7.10 Principe directeur
+
+Une image doit démontrer, expliquer ou illustrer.
+
+Elle ne doit jamais être présente uniquement pour embellir une page.
+
+Chaque image doit pouvoir être justifiée par un bénéfice concret pour
+la compréhension, la crédibilité ou l'expérience utilisateur.
+
+
+======================================================================
+
+7.11 Authenticité des images
+
+Les images du portfolio doivent privilégier les contenus authentiques
+liés au parcours du candidat.
+
+Les captures d'écran, photographies, documents, réalisations et
+illustrations personnelles sont privilégiés.
+
+Les banques d'images génériques ne doivent être utilisées qu'à titre
+exceptionnel et uniquement lorsqu'elles apportent une réelle valeur
+ajoutée.
+
+Le portfolio doit démontrer les réalisations du candidat par des
+preuves visuelles authentiques.
+
+======================================================================
+8. MISE EN PAGE
+======================================================================
+
+La mise en page garantit une présentation homogène, lisible et
+professionnelle sur l'ensemble du portfolio.
+
+Elle constitue l'un des principaux éléments de l'identité visuelle du
+projet.
+
+Chaque page doit respecter les mêmes principes de composition afin
+d'offrir une expérience utilisateur cohérente.
+
+
+======================================================================
+
+8.1 Principe général
+
+La mise en page privilégie :
+
+• la simplicité ;
+
+• la lisibilité ;
+
+• la hiérarchisation de l'information ;
+
+• les espaces de respiration ;
+
+• une navigation naturelle.
+
+
+======================================================================
+
+8.2 Structure des pages
+
+Toutes les pages du portfolio respectent une structure commune.
+
+Elles comprennent notamment :
+
+• un en-tête (Header) ;
+
+• un contenu principal ;
+
+• un pied de page (Footer).
+
+Cette structure garantit une expérience homogène sur l'ensemble du
+site.
+
+
+======================================================================
+
+8.3 Largeur du contenu
+
+Le contenu est centré horizontalement.
+
+Une largeur maximale est définie afin de préserver le confort de
+lecture sur les grands écrans.
+
+Les valeurs de référence sont définies dans les styles CSS du projet.
+
+
+======================================================================
+
+8.4 Espacements
+
+Les marges et les espacements sont homogènes sur l'ensemble du
+portfolio.
+
+Ils permettent :
+
+• d'aérer le contenu ;
+
+• de faciliter la lecture ;
+
+• de mettre en valeur les informations importantes.
+
+Les espacements suivent une grille commune définie dans les styles CSS.
+
+
+======================================================================
+
+8.5 Alignements
+
+Les éléments sont alignés de manière cohérente.
+
+Les alignements doivent renforcer la lisibilité et l'organisation des
+contenus.
+
+Les alignements décoratifs sont proscrits.
+
+
+======================================================================
+
+8.6 Hiérarchie visuelle
+
+Chaque page présente une hiérarchie visuelle claire.
+
+Le regard du recruteur doit être naturellement guidé vers :
+
+• le titre ;
+
+• les compétences principales ;
+
+• les réalisations ;
+
+• les preuves ;
+
+• les moyens de contact.
+
+
+======================================================================
+
+8.7 Cohérence des sections
+
+Toutes les sections utilisent les mêmes principes de présentation.
+
+Les composants similaires doivent conserver :
+
+• les mêmes espacements ;
+
+• les mêmes alignements ;
+
+• les mêmes proportions ;
+
+• les mêmes comportements.
+
+
+======================================================================
+
+8.8 Équilibre visuel
+
+Chaque page doit présenter un équilibre entre :
+
+• les textes ;
+
+• les images ;
+
+• les espaces blancs ;
+
+• les composants graphiques.
+
+Aucune zone ne doit paraître surchargée.
+
+
+======================================================================
+
+8.9 Lisibilité
+
+La mise en page doit permettre une lecture rapide.
+
+Les informations importantes doivent être immédiatement identifiables.
+
+Le contenu est privilégié par rapport aux effets graphiques.
+
+
+======================================================================
+
+8.10 Principe directeur
+
+La mise en page guide naturellement le recruteur.
+
+Elle ne doit jamais compliquer la lecture.
+
+Chaque choix de composition doit améliorer la compréhension du contenu,
+la navigation et l'expérience utilisateur.
+
+
+======================================================================
+
+8.11 Principe de répétition
+
+Les pages du portfolio reposent sur une structure répétitive.
+
+Les éléments récurrents (titres, sections, cartes, boutons, blocs de
+contenu, espaces, etc.) conservent toujours la même présentation.
+
+Le visiteur ne doit jamais avoir à réapprendre le fonctionnement d'une
+nouvelle page.
+
+Chaque nouvelle page doit donner immédiatement le sentiment
+d'appartenir au même portfolio.
+
+======================================================================
+9. COMPOSANTS GRAPHIQUES
+======================================================================
+
+Les composants graphiques constituent les briques de construction
+officielles du portfolio.
+
+Chaque composant est défini une seule fois puis réutilisé sur
+l'ensemble des pages.
+
+Cette approche garantit la cohérence graphique, la simplicité de
+développement et la maintenabilité du projet.
+
+Aucun nouveau composant ne peut être créé sans validation préalable du
+chef de projet.
+
+
+======================================================================
+
+9.1 Principe général
+
+Tous les composants graphiques doivent respecter :
+
+• la Charte graphique ;
+
+• la Palette de couleurs ;
+
+• la Typographie officielle ;
+
+• les règles de Mise en page ;
+
+• les règles d'Accessibilité.
+
+Chaque composant possède un rôle précis et une présentation unique.
+
+
+======================================================================
+
+9.2 Cartes (Cards)
+
+Les cartes permettent de présenter une information structurée.
+
+Exemples :
+
+• compétence ;
+
+• réalisation ;
+
+• projet ;
+
+• expérience ;
+
+• formation ;
+
+• témoignage.
+
+Toutes les cartes d'une même catégorie utilisent la même présentation.
+
+
+======================================================================
+
+9.3 Boutons
+
+Les boutons constituent les principaux éléments d'interaction.
+
+Ils utilisent les styles définis dans la Charte graphique.
+
+Leur apparence est identique sur l'ensemble du portfolio.
+
+Chaque niveau d'action possède un style unique
+(principal, secondaire, etc.).
+
+
+======================================================================
+
+9.4 Encadrés
+
+Les encadrés permettent de mettre en évidence une information.
+
+Ils sont utilisés notamment pour :
+
+• une preuve ;
+
+• une information importante ;
+
+• une citation ;
+
+• une recommandation ;
+
+• une alerte.
+
+Leur style reste homogène sur toutes les pages.
+
+
+======================================================================
+
+9.5 Timeline
+
+La timeline est utilisée pour représenter les événements
+chronologiques.
+
+Elle conserve la même structure graphique sur l'ensemble du portfolio.
+
+Son objectif est de faciliter la lecture du parcours professionnel.
+
+
+======================================================================
+
+9.6 Badges
+
+Les badges permettent d'identifier rapidement une information.
+
+Ils peuvent notamment représenter :
+
+• une compétence ;
+
+• une technologie ;
+
+• un niveau ;
+
+• une catégorie ;
+
+• un statut.
+
+Les badges utilisent exclusivement les couleurs officielles du projet.
+
+
+======================================================================
+
+9.7 Tableaux
+
+Les tableaux présentent des informations structurées.
+
+Ils privilégient :
+
+• la lisibilité ;
+
+• des espacements homogènes ;
+
+• une hiérarchie claire ;
+
+• un affichage responsive lorsque nécessaire.
+
+
+======================================================================
+
+9.8 Accordéons
+
+Les accordéons permettent de masquer ou d'afficher des informations
+complémentaires.
+
+Ils sont utilisés lorsque cela améliore la lisibilité de la page.
+
+Leur fonctionnement reste identique sur l'ensemble du portfolio.
+
+
+======================================================================
+
+9.9 Réutilisation
+
+Chaque composant est conçu pour être réutilisé.
+
+Lorsqu'un composant existe déjà, il est systématiquement privilégié
+avant d'en créer un nouveau.
+
+La duplication des composants est interdite.
+
+
+======================================================================
+
+9.10 Évolutions
+
+Toute évolution d'un composant existant est soumise à validation du
+chef de projet.
+
+Une modification doit bénéficier à l'ensemble du portfolio et préserver
+la cohérence graphique.
+
+
+======================================================================
+
+9.11 Principe directeur
+
+Les composants graphiques constituent une bibliothèque commune.
+
+Ils permettent de construire les pages du portfolio à partir d'éléments
+standardisés, réutilisables et parfaitement cohérents.
+
+Le développement privilégie toujours la réutilisation d'un composant
+existant plutôt que la création d'un nouveau composant.
+
+
+======================================================================
+
+9.12 Catalogue des composants
+
+Chaque composant graphique officiel fait l'objet d'une fiche de
+référence.
+
+Cette fiche précise notamment :
+
+• son rôle ;
+
+• ses cas d'utilisation ;
+
+• sa structure ;
+
+• son comportement ;
+
+• ses variantes autorisées ;
+
+• les règles d'accessibilité applicables.
+
+Le Catalogue des composants constitue la référence unique pour le
+développement des interfaces.
+
+Aucun composant ne peut être développé sans appartenir à ce catalogue
+ou sans avoir été validé par le chef de projet.
+
+======================================================================
+10. NAVIGATION
+======================================================================
+
+La navigation constitue un élément essentiel de l'expérience
+utilisateur.
+
+Elle doit permettre au recruteur d'accéder rapidement aux informations
+recherchées sans effort d'apprentissage.
+
+Chaque élément de navigation doit être simple, cohérent et prévisible.
+
+
+======================================================================
+
+10.1 Principe général
+
+La navigation privilégie :
+
+• la simplicité ;
+
+• la rapidité ;
+
+• la cohérence ;
+
+• la lisibilité ;
+
+• l'accessibilité.
+
+Le visiteur ne doit jamais se demander comment accéder à une
+information.
+
+
+======================================================================
+
+10.2 Menu principal
+
+Le menu principal est identique sur l'ensemble du portfolio.
+
+Il conserve :
+
+• le même emplacement ;
+
+• le même ordre ;
+
+• la même présentation ;
+
+• le même comportement.
+
+Les intitulés doivent être courts, explicites et cohérents.
+
+
+======================================================================
+
+10.3 Fil d'Ariane
+
+Lorsque la profondeur de navigation le justifie, un fil d'Ariane est
+affiché.
+
+Il permet au visiteur :
+
+• de connaître sa position ;
+
+• de revenir facilement aux niveaux précédents.
+
+Le fil d'Ariane conserve la même présentation sur toutes les pages.
+
+
+======================================================================
+
+10.4 Pied de page (Footer)
+
+Le pied de page est identique sur l'ensemble du portfolio.
+
+Il peut notamment contenir :
+
+• les informations de contact ;
+
+• les liens utiles ;
+
+• les mentions légales ;
+
+• les réseaux professionnels ;
+
+• les informations de version du portfolio.
+
+Sa structure reste constante.
+
+
+======================================================================
+
+10.5 Boutons de navigation
+
+Les boutons de navigation utilisent les composants graphiques
+officiels.
+
+Ils conservent :
+
+• la même apparence ;
+
+• les mêmes couleurs ;
+
+• les mêmes comportements ;
+
+• les mêmes effets visuels.
+
+Une même action utilise toujours le même type de bouton.
+
+
+======================================================================
+
+10.6 Retour à la navigation
+
+Le visiteur doit toujours pouvoir revenir facilement :
+
+• à la page précédente ;
+
+• à la page d'accueil ;
+
+• aux rubriques principales.
+
+Aucune page ne doit constituer une impasse de navigation.
+
+
+======================================================================
+
+10.7 Navigation mobile
+
+La navigation est entièrement adaptée aux smartphones et aux
+tablettes.
+
+Le menu mobile reprend les mêmes rubriques que la version bureau.
+
+Le fonctionnement reste simple, intuitif et cohérent.
+
+
+======================================================================
+
+10.8 Cohérence de navigation
+
+Les mécanismes de navigation sont identiques sur toutes les pages.
+
+Les menus, boutons, liens et comportements ne changent jamais selon
+la page consultée.
+
+Le visiteur retrouve toujours les mêmes repères.
+
+
+======================================================================
+
+10.9 Accessibilité
+
+La navigation doit être accessible :
+
+• au clavier ;
+
+• aux lecteurs d'écran ;
+
+• aux différents formats d'écran.
+
+Les liens et les boutons doivent être facilement identifiables.
+
+
+======================================================================
+
+10.10 Principe directeur
+
+La navigation accompagne naturellement le recruteur dans sa découverte
+du portfolio.
+
+Elle ne doit jamais devenir un obstacle à la consultation.
+
+Chaque interaction doit être simple, rapide et prévisible.
+
+
+======================================================================
+
+10.11 Parcours prioritaire du recruteur
+
+La navigation est conçue en priorité pour répondre aux attentes des
+recruteurs.
+
+Les informations les plus importantes doivent être accessibles en un
+minimum d'interactions.
+
+Le parcours de navigation privilégie notamment :
+
+• la découverte du candidat ;
+
+• l'identification des compétences ;
+
+• la consultation des réalisations ;
+
+• l'accès aux preuves ;
+
+• le téléchargement du CV ;
+
+• la prise de contact.
+
+Chaque choix de navigation doit contribuer à réduire le nombre
+d'actions nécessaires pour atteindre ces objectifs.
+
+======================================================================
+11.10 Équivalence fonctionnelle
+======================================================================
+
+Toutes les fonctionnalités disponibles sur la version Desktop doivent
+également être accessibles sur les versions Tablette et Mobile.
+
+Aucune information essentielle, aucune preuve, aucun moyen de contact
+ni aucune fonctionnalité importante ne peut être supprimé en raison de
+la taille de l'écran.
+
+Seule la présentation peut être adaptée.
+
+Le contenu et les fonctionnalités demeurent identiques sur l'ensemble
+des supports.
+
+1======================================================================
+12. ACCESSIBILITÉ
+======================================================================
+
+L'accessibilité constitue une exigence fondamentale du projet
+E-CV Eddy Lemahieu.
+
+Le portfolio doit pouvoir être consulté par le plus grand nombre,
+quelles que soient les capacités du visiteur ou le terminal utilisé.
+
+Les règles d'accessibilité contribuent également à améliorer la
+lisibilité, l'expérience utilisateur, la qualité du code et le
+référencement naturel du site.
+
+
+======================================================================
+
+12.1 Principe général
+
+L'accessibilité est prise en compte dès la conception du portfolio.
+
+Elle ne constitue pas une évolution ultérieure mais une exigence
+intégrée à chaque développement.
+
+
+======================================================================
+
+12.2 Contrastes
+
+Les contrastes entre les textes, les arrière-plans et les composants
+doivent garantir une excellente lisibilité.
+
+Les couleurs ne doivent jamais être le seul moyen de transmettre une
+information.
+
+Les contrastes doivent respecter les bonnes pratiques en vigueur.
+
+
+======================================================================
+
+12.3 Navigation clavier
+
+Toutes les fonctionnalités du portfolio doivent être accessibles au
+clavier.
+
+Le parcours de navigation doit rester logique et cohérent.
+
+Les éléments interactifs doivent être facilement identifiables
+lorsqu'ils reçoivent le focus.
+
+
+======================================================================
+
+12.4 Attributs ARIA
+
+Les composants interactifs utilisent les attributs ARIA lorsque cela
+est nécessaire.
+
+Ils permettent d'améliorer la compréhension du site par les lecteurs
+d'écran.
+
+Les attributs ARIA complètent le HTML sémantique ; ils ne le remplacent
+pas.
+
+
+======================================================================
+
+12.5 Textes alternatifs (ALT)
+
+Chaque image informative possède un texte alternatif pertinent.
+
+Le texte ALT décrit l'information apportée par l'image.
+
+Les images purement décoratives sont identifiées conformément aux
+bonnes pratiques d'accessibilité.
+
+
+======================================================================
+
+12.6 Lisibilité
+
+Les contenus doivent privilégier :
+
+• une police lisible ;
+
+• des tailles adaptées ;
+
+• des espacements confortables ;
+
+• une hiérarchie visuelle claire ;
+
+• une longueur de ligne favorisant une lecture fluide.
+
+
+======================================================================
+
+12.7 Structure sémantique
+
+Les pages utilisent une structure HTML sémantique.
+
+Les titres, sections, listes, tableaux et formulaires respectent leur
+rôle afin de faciliter la navigation des technologies d'assistance.
+
+La hiérarchie des titres doit rester cohérente sur l'ensemble du site.
+
+
+======================================================================
+
+12.8 Liens et composants interactifs
+
+Les liens, boutons et autres éléments interactifs doivent être
+facilement identifiables.
+
+Leur zone de clic doit être suffisante pour une utilisation
+confortable, notamment sur smartphone.
+
+
+======================================================================
+
+12.9 Vérifications
+
+Toute nouvelle page doit être contrôlée afin de vérifier le respect des
+règles d'accessibilité définies dans la présente charte.
+
+Les corrections nécessaires sont réalisées avant toute validation.
+
+
+======================================================================
+
+12.10 Principe directeur
+
+L'accessibilité améliore la qualité globale du portfolio.
+
+Chaque règle d'accessibilité contribue à offrir une expérience plus
+simple, plus inclusive et plus professionnelle à l'ensemble des
+visiteurs.
+
+
+======================================================================
+
+12.11 Accessibilité par conception
+
+Chaque nouvelle fonctionnalité, composant ou page doit être conçue en
+tenant compte des exigences d'accessibilité dès sa conception.
+
+L'accessibilité ne constitue jamais une étape de correction.
+
+Elle fait partie intégrante du processus de conception, de
+développement et de validation du projet.
+
+======================================================================
+13. ANIMATIONS
+======================================================================
+
+Les animations contribuent à améliorer l'expérience utilisateur en
+rendant la navigation plus fluide et plus agréable.
+
+Elles constituent un complément visuel.
+
+Elles ne doivent jamais devenir un élément dominant du portfolio.
+
+Chaque animation doit être justifiée par un bénéfice concret pour
+l'utilisateur.
+
+
+======================================================================
+
+13.1 Principe général
+
+Les animations doivent être :
+
+• discrètes ;
+
+• fluides ;
+
+• naturelles ;
+
+• cohérentes ;
+
+• professionnelles.
+
+Leur objectif est d'accompagner l'utilisateur, jamais de détourner son
+attention.
+
+
+======================================================================
+
+13.2 Objectifs
+
+Les animations peuvent notamment permettre de :
+
+• guider le regard ;
+
+• accompagner une transition ;
+
+• mettre en valeur une action ;
+
+• confirmer une interaction ;
+
+• améliorer la perception de fluidité.
+
+Elles ne doivent jamais compliquer la navigation.
+
+
+======================================================================
+
+13.3 Sobriété
+
+Les animations restent limitées en nombre et en durée.
+
+Les effets excessifs sont proscrits.
+
+Le portfolio privilégie toujours la lisibilité du contenu.
+
+
+======================================================================
+
+13.4 Performances
+
+Les animations ne doivent jamais ralentir le chargement des pages.
+
+Elles doivent préserver :
+
+• la fluidité ;
+
+• les performances ;
+
+• la réactivité du site.
+
+Les animations lourdes sont interdites.
+
+
+======================================================================
+
+13.5 Cohérence
+
+Une même animation produit toujours le même comportement.
+
+Les transitions restent homogènes sur l'ensemble du portfolio.
+
+Le mélange de styles d'animation est interdit.
+
+
+======================================================================
+
+13.6 Déclenchement
+
+Les animations sont déclenchées uniquement lorsqu'elles apportent une
+valeur à l'expérience utilisateur.
+
+Elles ne doivent jamais se répéter inutilement ou perturber la lecture.
+
+
+======================================================================
+
+13.7 Accessibilité
+
+Les animations ne doivent jamais empêcher l'accès au contenu.
+
+Les utilisateurs sensibles aux mouvements doivent pouvoir consulter le
+portfolio dans de bonnes conditions.
+
+Les préférences du système d'exploitation concernant la réduction des
+animations doivent être respectées lorsque cela est possible.
+
+
+======================================================================
+
+13.8 Types d'animations autorisés
+
+Le projet privilégie notamment :
+
+• les fondus (Fade) ;
+
+• les apparitions progressives ;
+
+• les transitions douces ;
+
+• les animations de boutons ;
+
+• les effets de survol (Hover) ;
+
+• les défilements fluides.
+
+Les animations spectaculaires ou distrayantes sont proscrites.
+
+
+======================================================================
+
+13.9 Vérifications
+
+Toute animation doit être vérifiée afin de garantir :
+
+• sa fluidité ;
+
+• son utilité ;
+
+• sa cohérence ;
+
+• son impact minimal sur les performances.
+
+
+======================================================================
+
+13.10 Principe directeur
+
+Une animation doit améliorer l'expérience utilisateur.
+
+Elle ne doit jamais attirer l'attention sur elle-même.
+
+Le visiteur doit retenir le contenu du portfolio, jamais les effets
+visuels.
+
+
+======================================================================
+
+13.11 Animation par nécessité
+
+Aucune animation n'est ajoutée uniquement pour des raisons esthétiques
+ou démonstratives.
+
+Avant toute intégration, le GPT Chef de projet doit pouvoir répondre à
+la question suivante :
+
+« Quel bénéfice concret cette animation apporte-t-elle au recruteur ou
+à l'expérience utilisateur ? »
+
+En l'absence d'un bénéfice clairement identifié, l'animation n'est pas
+intégrée au projet.
+
+======================================================================
+14. COHÉRENCE GRAPHIQUE
+======================================================================
+
+La cohérence graphique constitue un principe fondamental du projet
+E-CV Eddy Lemahieu.
+
+Elle garantit une identité visuelle homogène sur l'ensemble du
+portfolio, quelles que soient les pages consultées.
+
+Chaque nouvelle page doit être immédiatement identifiable comme faisant
+partie du même site.
+
+La cohérence graphique contribue directement à renforcer la crédibilité,
+la qualité perçue et l'image professionnelle du candidat.
+
+
+======================================================================
+
+14.1 Principe général
+
+Toutes les pages du portfolio respectent les mêmes règles graphiques.
+
+Aucune page ne peut adopter une identité visuelle différente ou des
+règles spécifiques non validées.
+
+L'ensemble du site doit donner l'impression d'avoir été conçu comme un
+tout cohérent.
+
+
+======================================================================
+
+14.2 Éléments permanents
+
+Chaque nouvelle page reprend obligatoirement :
+
+• le même Header ;
+
+• le même Footer ;
+
+• la même palette de couleurs ;
+
+• la même typographie ;
+
+• les mêmes composants graphiques ;
+
+• les mêmes principes de mise en page ;
+
+• les mêmes règles de navigation ;
+
+• les mêmes comportements interactifs.
+
+
+======================================================================
+
+14.3 Uniformité des composants
+
+Un même composant conserve toujours :
+
+• la même apparence ;
+
+• les mêmes dimensions ;
+
+• les mêmes couleurs ;
+
+• les mêmes espacements ;
+
+• les mêmes animations ;
+
+• le même comportement.
+
+Une modification d'un composant s'applique à l'ensemble du portfolio.
+
+
+======================================================================
+
+14.4 Uniformité des pages
+
+Toutes les pages doivent respecter :
+
+• la même structure générale ;
+
+• la même hiérarchie visuelle ;
+
+• les mêmes marges ;
+
+• les mêmes espacements ;
+
+• les mêmes alignements.
+
+Le visiteur retrouve immédiatement ses repères.
+
+
+======================================================================
+
+14.5 Cohérence des interactions
+
+Les interactions utilisateur restent identiques sur toutes les pages.
+
+Une même action produit toujours le même résultat.
+
+Les comportements ne changent jamais selon la page consultée.
+
+
+======================================================================
+
+14.6 Cohérence des contenus
+
+Les contenus similaires utilisent toujours la même présentation.
+
+Par exemple :
+
+• une compétence est toujours présentée de la même manière ;
+
+• une réalisation utilise toujours la même carte ;
+
+• une preuve suit toujours la même structure ;
+
+• un bouton possède toujours le même style selon sa fonction.
+
+
+======================================================================
+
+14.7 Contrôle de cohérence
+
+Toute nouvelle page est vérifiée avant validation afin de garantir son
+respect de la présente Charte graphique.
+
+Aucune page ne peut être publiée si elle introduit une rupture
+graphique avec le reste du portfolio.
+
+
+======================================================================
+
+14.8 Principe directeur
+
+Le visiteur ne doit jamais avoir le sentiment de changer de site en
+changeant de page.
+
+Chaque nouvelle page prolonge naturellement l'identité visuelle du
+portfolio.
+
+La cohérence graphique constitue un facteur essentiel de confiance, de
+lisibilité et de professionnalisme.
+
+
+======================================================================
+
+14.9 Cohérence avant créativité
+
+Toute évolution graphique doit privilégier la cohérence du projet avant
+la recherche d'originalité.
+
+Un nouvel effet visuel, un nouveau composant ou une nouvelle mise en
+page ne peut être intégré que s'il respecte l'identité graphique
+existante et apporte une réelle valeur ajoutée.
+
+La créativité s'exprime dans la qualité de la conception, jamais dans
+la multiplication des styles graphiques.
+
+La cohérence visuelle constitue une exigence permanente du projet.
+
+======================================================================
+15. ÉVOLUTIONS
+======================================================================
+
+La présente Charte graphique constitue la référence officielle en
+matière d'identité visuelle du projet E-CV Eddy Lemahieu.
+
+Elle est conçue pour évoluer dans le temps afin d'accompagner le
+développement du portfolio, tout en préservant sa cohérence et sa
+qualité.
+
+Toute évolution doit respecter les principes définis dans la présente
+charte.
+
+
+======================================================================
+
+15.1 Principe général
+
+La Charte graphique peut évoluer afin de répondre à un besoin
+identifié.
+
+Toute évolution est étudiée avant d'être intégrée.
+
+Aucune modification ne peut être réalisée sans validation préalable du
+chef de projet.
+
+
+======================================================================
+
+15.2 Analyse préalable
+
+Avant toute évolution, le GPT Chef de projet analyse notamment :
+
+• le besoin exprimé ;
+
+• les bénéfices attendus ;
+
+• les impacts sur l'ensemble du portfolio ;
+
+• la compatibilité avec les documents de référence ;
+
+• la faisabilité technique ;
+
+• les conséquences sur les composants graphiques existants.
+
+Toute proposition est argumentée avant validation.
+
+
+======================================================================
+
+15.3 Respect de la documentation
+
+Toute évolution doit rester compatible avec :
+
+• le Document maître ;
+
+• le Cahier des charges ;
+
+• l'Architecture technique ;
+
+• la présente Charte graphique ;
+
+• le Catalogue des composants ;
+
+• les Décisions validées.
+
+Aucune évolution ne peut remettre en cause un document validé sans
+décision explicite du chef de projet.
+
+
+======================================================================
+
+15.4 Principe de non-régression
+
+Une évolution graphique ne doit jamais :
+
+• dégrader l'expérience utilisateur ;
+
+• modifier l'identité visuelle du portfolio ;
+
+• créer une incohérence graphique ;
+
+• introduire une rupture de navigation ;
+
+• remettre en cause les composants existants sans validation.
+
+Toute évolution doit améliorer ou préserver l'existant.
+
+
+======================================================================
+
+15.5 Application globale
+
+Une évolution validée est appliquée de manière cohérente sur l'ensemble
+du portfolio.
+
+Aucune modification locale ou spécifique à une seule page n'est
+autorisée, sauf décision explicite du chef de projet.
+
+
+======================================================================
+
+15.6 Traçabilité
+
+Toute évolution validée est :
+
+• documentée ;
+
+• datée ;
+
+• intégrée au Journal des évolutions ;
+
+• répercutée dans les documents concernés lorsque nécessaire.
+
+
+======================================================================
+
+15.7 Validation
+
+Aucune évolution graphique n'est considérée comme définitive avant sa
+validation par le chef de projet.
+
+Le GPT Chef de projet formule des propositions.
+
+La décision appartient exclusivement au chef de projet.
+
+
+======================================================================
+
+15.8 Principe directeur
+
+La Charte graphique évolue de manière maîtrisée.
+
+Chaque évolution doit renforcer :
+
+• la cohérence ;
+
+• la lisibilité ;
+
+• l'expérience utilisateur ;
+
+• l'identité visuelle ;
+
+• la qualité globale du portfolio.
+
+La stabilité du projet demeure prioritaire.
+
+
+======================================================================
+
+15.9 Une seule référence graphique
+
+La présente Charte graphique constitue l'unique référence officielle en
+matière de conception visuelle du projet.
+
+Aucune règle graphique ne doit être définie, modifiée ou interprétée en
+dehors de ce document.
+
+Toute nouvelle règle, toute évolution ou toute exception doit être
+intégrée à la présente Charte graphique après validation du chef de
+projet.
+
+Il n'existe qu'une seule source de vérité concernant l'identité
+graphique du portfolio.
