@@ -353,7 +353,6 @@ BOUTONS
 ==========================================================*/
 
 .hero-buttons,
-
 .contact-buttons{
 
     display:flex;
@@ -365,7 +364,6 @@ BOUTONS
     margin-top:45px;
 
 }
-
 
 .btn{
 
@@ -387,7 +385,6 @@ BOUTONS
 
 }
 
-
 .btn-primary{
 
     background:var(--primary);
@@ -396,17 +393,14 @@ BOUTONS
 
 }
 
-
 .btn-primary:hover{
 
     transform:translateY(-5px);
 
     box-shadow:
-
         0 20px 45px rgba(10,102,255,.25);
 
 }
-
 
 .btn-outline{
 
@@ -416,12 +410,57 @@ BOUTONS
 
 }
 
-
 .btn-outline:hover{
 
     background:var(--primary);
 
     color:white;
+
+}
+
+/* Bouton Contact */
+
+.btn-contact{
+
+    background:#16A34A;
+
+    color:#fff;
+
+    border:2px solid #16A34A;
+
+}
+
+.btn-contact:hover{
+
+    background:#15803D;
+
+    border-color:#15803D;
+
+    color:#fff;
+
+    transform:translateY(-5px);
+
+    box-shadow:
+        0 20px 45px rgba(22,163,74,.25);
+
+}
+
+/*==========================================================
+HERO
+==========================================================*/
+
+.hero{
+
+    position:relative;
+
+    overflow:hidden;
+
+    padding:90px 0 140px;
+
+    background:
+        radial-gradient(circle at 95% 10%, rgba(10,102,255,.08), transparent 30%),
+        radial-gradient(circle at 5% 80%, rgba(10,102,255,.05), transparent 40%),
+        linear-gradient(180deg,#ffffff 0%,#f8fbff 100%);
 
 }
 /*==========================================================
@@ -1722,7 +1761,7 @@ Photo
 
 .cv-photo{
     position:relative;
-    width:390px;
+    width:520px;
     z-index:10;
 }
 
