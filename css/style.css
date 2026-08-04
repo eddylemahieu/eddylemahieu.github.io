@@ -522,7 +522,7 @@ COLONNE GAUCHE
 
 .hero-left p{
 
-    max-width:650px;
+    max-width:685px;
 
     margin-top:30px;
 
@@ -543,9 +543,9 @@ SERVICES
 
     grid-template-columns:repeat(2,1fr);
 
-    gap:16px 28px;
+    gap:10px 1px;
 
-    margin-top:35px;
+    margin-top:30px;
 
     margin-bottom:35px;
 
@@ -557,7 +557,7 @@ SERVICES
 
     align-items:center;
 
-    gap:12px;
+    gap:10px;
 
 }
 
@@ -567,7 +567,7 @@ SERVICES
 
     height:52px;
 
-    border-radius:16px;
+    border-radius:6px;
 
     background:#EDF4FF;
 
