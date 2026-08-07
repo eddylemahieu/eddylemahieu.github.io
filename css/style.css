@@ -596,17 +596,12 @@ COLONNE DROITE
 ==========================================================*/
 
 .hero-right{
+    overflow:visible;
+}
 
-    position:relative;
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:flex-end;
-
-    margin-top:-70px;
-
+.hero-photo{
+    width:950px;
+    max-width:none;
 }
 
 
@@ -633,23 +628,60 @@ PHOTO
 HALO
 ==========================================================*/
 
+.hero-right{
+
+    position:relative;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:flex-end;
+
+    margin-top:-70px;
+
+    overflow:visible;
+
+    isolation:isolate;
+}
+
 .hero-right::before{
 
     content:"";
 
     position:absolute;
 
-    width:520px;
+    width:900px;
+    height:700px;
 
-    height:520px;
+    left:50%;
+    top:45%;
 
-    border-radius:50%;
+    transform:translate(-50%,-50%);
 
-    background:rgba(10,102,255,.08);
+    border-radius:50px;
 
-    filter:blur(15px);
+    background:
 
+        radial-gradient(circle at 50% 45%,
+            rgba(10,102,255,.18) 0%,
+            rgba(10,102,255,.10) 28%,
+            rgba(10,102,255,.05) 55%,
+            transparent 80%),
+
+        radial-gradient(circle at 78% 18%,
+            rgba(130,190,255,.18) 0%,
+            transparent 35%),
+
+        radial-gradient(circle at 22% 82%,
+            rgba(10,102,255,.10) 0%,
+            transparent 32%);
+
+    filter:blur(35px);
+
+    z-index:0;
 }
+
 
 
 /*==========================================================
@@ -1446,27 +1478,24 @@ CONTACT
 
 }
 
-.contact-left{
-
-    display:flex;
-
-    align-items:flex-end;
-
-    justify-content:flex-start;
-
-    margin-bottom:-70px;
-
+.contact-left {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    margin-bottom: 0; /* Changé de -70px à 0 pour bloquer la descente */
 }
 
-.contact-photo{
-    width:110%;
-    max-width:none;
-    display:block;
-    border-radius:0;
-    box-shadow:none;
-
-    transform:translateY(-70px);
+.contact-photo {
+    width: 165%; /* Augmenté de 110% à 135% pour t'agrandir */
+    max-width: none;
+    display: block;
+    border-radius: 0;
+    box-shadow: none;
+    transform: translateY(0);
+    margin-left: -35%; /* Décale la photo vers la gauche pour équilibrer l'écran */
 }
+
+
 
 .contact-right{
 
