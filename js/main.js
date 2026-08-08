@@ -1,6 +1,6 @@
 /*
 =====================================================
-E-CV Eddy Lemahieu
+E-CV Eddy Lemahieu — interactions
 main.js
 =====================================================
 */
@@ -114,4 +114,10 @@ document.querySelectorAll(".career-item").forEach(item=>{
 
     });
 
+});
+
+/* Prevent accidental image dragging while keeping navigation and selection usable. */
+document.querySelectorAll("img").forEach((image) => {
+    image.addEventListener("dragstart", (event) => event.preventDefault());
+    image.addEventListener("contextmenu", (event) => event.preventDefault());
 });
